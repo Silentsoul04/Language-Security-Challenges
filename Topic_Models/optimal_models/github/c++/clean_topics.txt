@@ -1,0 +1,11 @@
+TOPIC 0: user authent secur valid api access provid configur creat auth 
+TOPIC 1: use need work think make case code want time look 
+TOPIC 2: ssh lib java transport usr debug py io info linux 
+TOPIC 3: certif server ssl connect cert tl openssl error client file 
+TOPIC 4: cooki session request url header token browser page csrf http 
+TOPIC 5: password user login log error version usernam tri messag reproduc 
+TOPIC 6: hash encod decod string function crypto valu type build return 
+TOPIC 7: sign email github cla plea request author approv pull thank 
+TOPIC 8: test fix chang updat add thank merg fail plea ad 
+TOPIC 9: key encrypt sha file privat ae decrypt cipher rb data 
+TOPIC 10: file script run version instal asset app build modul window 

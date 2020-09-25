@@ -1,0 +1,18 @@
+Topic ID,Top Words,Category,Sub-Category,Specifics
+TOPIC 0, hash password file use need program secur ,Data Security,Password/Data Storage,
+TOPIC 1, python script libcurl curl cooki pkcs7 pkcs#7 ,Development,Libraries,libcurl
+TOPIC 2, openssl error use ssl librari code tri ,Development,Libraries,OpenSSL
+TOPIC 3, key use rsa public openssl hash privat ,Cryptography,Algorithms,Public & Private Key
+TOPIC 4, refer undefin error &amp;&amp parent self-assign build -o gdb -g ,Development,Testing,
+TOPIC 5, crc bob valu calcul crc32 alic comput nonc polynomi mac ,Data Security,Checksums,
+TOPIC 6, certif file sign ca use trust server ,Data Security,Digital Certificates,
+TOPIC 7, window memori code secur use provid api ,Secure Coding,Memory Leaks,
+TOPIC 8, server client connect use key encrypt secur ssl send ,Network Security,Client/Server,
+TOPIC 9, process user thread access run file applic ,Secure Coding,Thread/Process Management,
+TOPIC 10, password user authent usernam login credenti use ,Authentication,Login,
+TOPIC 11, android bio openssl ndk 1.1.0 non-block io android-ndk coordin jni ,Development,Implementation,App Development
+TOPIC 12, encrypt decrypt ae use code byte data ,Cryptography,Encryption,
+TOPIC 13, qt signal class slot emit connect inherit deriv qt5 bignum ,Other,,
+TOPIC 14, encod string decod convert base64 charact valu type array char ,Cryptography,Encoding,
+TOPIC 15, function code buffer pointer return valu compil ,Secure Coding,Stack/Heap Memory,
+TOPIC 16, librari javascript viru botan firew card signatur ,Network Security,Viruses,Viruses and Firewalls

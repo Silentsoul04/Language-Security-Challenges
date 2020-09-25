@@ -1,0 +1,17 @@
+TOPIC 0: hash password file use need program secur 
+TOPIC 1: python script libcurl curl cooki pkcs7 pkcs#7 
+TOPIC 2: openssl error use ssl librari code tri 
+TOPIC 3: key use rsa public openssl hash privat 
+TOPIC 4: refer undefin error &amp;&amp parent self-assign build -o gdb -g 
+TOPIC 5: crc bob valu calcul crc32 alic comput nonc polynomi mac 
+TOPIC 6: certif file sign ca use trust server 
+TOPIC 7: window memori code secur use provid api 
+TOPIC 8: server client connect use key encrypt secur ssl send 
+TOPIC 9: process user thread access run file applic 
+TOPIC 10: password user authent usernam login credenti use 
+TOPIC 11: android bio openssl ndk 1.1.0 non-block io android-ndk coordin jni 
+TOPIC 12: encrypt decrypt ae use code byte data 
+TOPIC 13: qt signal class slot emit connect inherit deriv qt5 bignum 
+TOPIC 14: encod string decod convert base64 charact valu type array char 
+TOPIC 15: function code buffer pointer return valu compil 
+TOPIC 16: librari javascript viru botan firew card signatur 

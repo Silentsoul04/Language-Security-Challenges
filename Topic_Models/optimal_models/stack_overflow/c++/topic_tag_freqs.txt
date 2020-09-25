@@ -1,0 +1,2742 @@
+TOPIC 0: 
+c++ encryption 12
+c++ security 10
+c++ 10
+c++ cryptography encryption 8
+c++ passwords 8
+c++ qt 8
+c++ cryptography 7
+c++ cryptography random 6
+c++ hash 6
+c c++ security 5
+c c++ cryptography 4
+c++ cryptography encryption rsa 4
+c++ passwords string 3
+aes benchmarking c++ crypto++ cryptography 3
+c++ cryptography encryption xor 3
+c c++ 3
+c++ crypto++ cryptography hash 2
+c++ masking passwords 2
+c c++ security windows 2
+c++ dll security 2
+c++ mysql security 2
+c++ passwords security 2
+c++ security string 2
+c++ cryptography hash md5 2
+c++ cryptography encryption hash 2
+c++ security winapi 2
+c++ cryptography xor 2
+c++ crypto++ cryptography 2
+c++ encryption hash 2
+c++ visual-c++ 2
+algorithm c++ hash 2
+aes c++ crypto++ encryption 2
+c++ java 2
+c++ openssl 2
+boost c++ hash 2
+c++ codeblocks 2
+aes c++ pbkdf2 2
+c++ networking security 1
+c# c++ security software-design windows 1
+android android-ndk android-security c++ security 1
+biginteger c++ cryptography 1
+c++ encryption security stl winapi 1
+c++ hardware memory-management ram security 1
+authentication c++ encryption security 1
+c++ linux masking passwords ubuntu 1
+c++ executable security 1
+c++ mfc passwords winapi windows 1
+c++ cryptography des encryption 1
+c++ input masking passwords 1
+c c++ cryptography openssl 1
+arduino c++ encryption php security 1
+c++ security usb windows-ce 1
+c++ java linker security user-interface 1
+c++ cryptography eigen modulus 1
+c c++ cryptography public-key-encryption 1
+c++ security ubuntu 1
+c++ cryptography encryption mfc php 1
+c c++ constant-time cryptography 1
+aes c++ dump memory security 1
+c++ removable-drive security windows 1
+android android-ndk c++ image-processing security 1
+c++ input passwords 1
+algorithm c++ cryptography exponentiation modular-arithmetic 1
+c++ cryptography visual-c++ 1
+c# c++ security 1
+c++ infinite-loop passwords string validation 1
+c++ linux macos security windows 1
+c++ hide mask masking passwords 1
+android c++ code-access-security java-native-interface reverse-engineering 1
+c++ crypto++ cryptography md5 salt 1
+c c++ entropy random security 1
+c++ oop security 1
+c++ loops passwords 1
+c++ secure-coding security 1
+c++ regex security 1
+c++ linux passwords 1
+c++ command-line passwords windows 1
+c++ registration security uniqueidentifier wxwidgets 1
+c++ php security 1
+c++ encryption security 1
+c++ cryptography rsa 1
+c++ c-strings passwords 1
+algorithm c++ cryptography encryption 1
+c++ filetime metadata security windows 1
+c++ c++11 encryption linux security 1
+c++ compression cryptography 1
+c++ console passwords windows 1
+c++ openssl passwords 1
+brute-force c++ c++11 generator passwords 1
+c++ cryptography galois-field 1
+c++ cracking cryptography reverse-engineering 1
+c c++ cryptography image-processing opencv 1
+c c++ encryption security 1
+c c++ cryptography embedded public-key-encryption 1
+account c++ crash function passwords 1
+boost-python c++ python security 1
+c++ cryptography encryption java 1
+botan c++ cryptography qcar-sdk qt 1
+c++ cryptography permutation shuffle 1
+aes c++ crypto++ security 1
+brute-force c c++ cryptography time 1
+aes c++ cryptography encryption 1
+activation c++ security 1
+c++ cryptography performance 1
+barcode c++ security 1
+c++ hash qt security 1
+c c++ cryptography winapi windows 1
+c c++ cryptography openssl rsa 1
+c++ passwords username 1
+c++ mode passwords 1
+c++ gdi memory security winapi 1
+algorithm antivirus c++ database security 1
+c++ c++11 cryptography mersenne-twister random 1
+c c++ exploit security 1
+c++ encryption ram security variables 1
+c++ cryptography openssl security 1
+c++ hash passwords 1
+c c++ cryptography public-key-encryption rsa 1
+c++ ios objective-c openssl security 1
+c++ hash passwords security 1
+c# c++ random security windows 1
+c++ destructor security templates 1
+c++ encryption passwords pdf python 1
+c++ local-security-policy passwords windows 1
+c++ rfid security usb 1
+c++ cryptography encryption passwords 1
+atl c++ permissions security windows 1
+c++ encryption passwords 1
+c++ cryptography encryption password-encryption password-protection 1
+c++ cryptography discrete-mathematics probability 1
+c++ c++11 cryptography des 1
+c c++ daemon security sockets 1
+algorithm c++ passwords 1
+c c++ cryptography encryption rsa 1
+c++ delete-file filesystems security 1
+c++ char passwords 1
+c# c++ code-access-security networking security 1
+c c++ cryptography performance random 1
+c++ login piracy-protection security 1
+c++ cryptography openssl 1
+c++ cryptography curve 1
+c++ security winpcap 1
+c++ cryptography discrete-mathematics logarithm ntl 1
+c c++ secure-coding security visual-studio-2010 1
+c++ crypto++ cryptography hash secret-key 1
+.net c# c++ dll security 1
+c++ java security 1
+c++ cryptography memory passwords security 1
+c++ clion codeblocks passwords windows 1
+c c++ cryptography hash sha1 1
+authentication c++ security 1
+authentication c++ passwords 1
+c++ passwords qt user-interface 1
+c++ encryption security tcp 1
+c++ cryptography microphone random 1
+c++ outlook passwords 1
+algorithm c++ security stl 1
+c++ gcc glibc security testing 1
+arrays c++ cryptography math sorting 1
+c++ cryptography linux 1
+c++ codeblocks passwords 1
+api c# c++ security winapi 1
+c++ embed exe file-sharing security 1
+authorization bcrypt c++ hash passwords 1
+api c++ licensing security 1
+c++ cryptography digest hash 1
+c++ cryptography reverse-engineering security segmentation-fault 1
+c++ crypto++ cryptography nonce openssl 1
+c++ cryptography hash steganography unit-testing 1
+c++ cryptography hash 1
+c++ cryptography public-key-encryption rsa 1
+brute-force c++ c++11 html passwords 1
+c++ cracking cryptography encryption xor 1
+c c++ exploit java security 1
+c++ file filestream passwords username 1
+c++ cryptography password-hash php security 1
+algorithm c++ cryptography modulo rsa 1
+c++ cryptography math modular-arithmetic 1
+c++ encryption passwords security 1
+c++ cryptography macos smartcard 1
+boost c++ cryptography mersenne-twister random 1
+c++ cryptography salt sha 1
+c++ cryptography encryption postgresql seal 1
+c++ linux security 1
+c++ memory security winapi windows 1
+c++ c++11 cryptography random 1
+c++ password-protection passwords security 1
+c++ memory security 1
+authentication c++ security winapi 1
+.net c# c++ cryptography 1
+c++ c++-cli protection security 1
+assembly c++ memory security tampering 1
+c++ license-key macos security 1
+c++ caesar-cipher cryptography encryption software-design 1
+c++ download qt security 1
+c++ cryptography hash std string 1
+c++ defensive-programming obfuscation security 1
+c++ cryptography design-patterns oop 1
+c++ passwords stdin stdout 1
+c# c++ java security 1
+c++ cryptography python utf-16 utf-8 1
+c c++ cryptography pointers winapi 1
+algorithm c++ cryptography math 1
+algorithm c++ cryptography hash math 1
+byte c++ memory security 1
+c# c++ memory security string 1
+c++ recursion security stack-overflow 1
+c++ java onlinebanking security 1
+c++ cryptography encryption reverse 1
+c++ crypto++ cryptography encryption 1
+biometrics c++ java security 1
+c++ cryptography des 1
+c++ cryptography ios random security 1
+c++ cryptography obfuscation private-key qt 1
+c++ c++11 input passwords terminal 1
+c++ linux random security 1
+c++ desktop-application security 1
+c c++ checksum cryptography hash 1
+binary c++ obfuscation security x86 1
+c++ security stdstring string 1
+c++ cross-platform cryptography security 1
+c++ hash mfc reverse-engineering security 1
+c++ mysql qt security 1
+c++ security std stream 1
+assembly c c++ disassembly security 1
+c++ crypto++ cryptography visual-c++ 1
+c++ constant-time cryptography generics templates 1
+c++ passwords secure-coding string 1
+c c++ cryptography gcc 1
+c c++ gsoap passwords 1
+c++ cryptography encryption openssl 1
+c++ dll security windows 1
+c++ cryptography encryption iostream rc4-cipher 1
+c++ cryptanalysis cryptography hash rainbowtable 1
+asn.1 blob c c++ security 1
+c c++ security unix windows 1
+binary c++ file security text 1
+android android-ndk c++ security shared-objects 1
+c++ cryptography hash salt 1
+c++ passwords while-loop 1
+c++ cryptography qt qt4 rainbowtable 1
+c++ floating-point numerical-methods security sgx 1
+c c++ cryptography openssl random 1
+c++ compiler-construction memory optimization security 1
+c++ console-application passwords windows 1
+c++ qnetworkreply qt security websecurity 1
+brute-force c++ cryptography hash sha256 1
+c++ hardware-id security winapi 1
+c c++ cryptography sha1 1
+c++ cryptography encryption security windows 1
+c++ character indexing passwords string 1
+arrays c c++ security 1
+buffer-overflow c++ command-execution linux security 1
+.net c++ deployment security trialware 1
+c++ cryptography hash qt 1
+aes c++ cryptography 1
+brute-force c++ caesar-cipher cryptography encryption 1
+.net c# c++ security-by-obscurity webbrowser-control 1
+c# c++ encryption frequency-analysis security 1
+c++ protocol-buffers security 1
+.net c++ memory security windows-7 1
+assembly c++ polymorphism security 1
+blowfish c++ character-encoding cryptography qt 1
+c++ cryptography file openssl windows 1
+c++ file-access security windows 1
+c++ dll reverse-engineering security 1
+c++ gnome linux passwords ubuntu 1
+c++ gcc security visual-studio 1
+asp.net c++ cryptography encryption qt 1
+c c++ security testing 1
+account c++ ofstream passwords 1
+c++ command-line security 1
+algorithm antivirus c++ cryptography hash 1
+c++ cryptoapi cryptography encoding 1
+c c++ linux pam security 1
+c++ passwords user-accounts winapi windows 1
+boost c++ format security 1
+boost c++ cryengine openssl security 1
+aes c++ cryptography java 1
+c++ cryptography image-processing opencv steganography 1
+c++ passwords validation 1
+c# c++ native security vb.net 1
+c# c++ javascript xss 1
+c++ code-access-security disk editor g++ 1
+c c++11 function security string 1
+c++ cryptography ipsec rfc vpn 1
+c++ cryptography hash macos objective-c++ 1
+c c++ security winapi 1
+c++ hash security windows 1
+c++ crypto++ cryptography encoding 1
+c++ password-encryption password-protection passwords 1
+c c++ cryptography random 1
+c++ cin command-line-tool getline passwords 1
+c++ memory password-encryption password-protection passwords 1
+blockchain c++ cryptography openssl windows 1
+c++ design-patterns dll-injection security 1
+c++ integer-overflow linux security 1
+c c++ concurrency race-condition security 1
+c++ cryptography hash uniqueidentifier 1
+c++ defensive-programming obfuscation reverse-engineering security 1
+bit-manipulation c++ cryptography encryption steganography 1
+arrays c++ optimization passwords 1
+buffer-overflow c++ crt security 1
+boost boost-uuid c++ security uuid 1
+c++ cracking passwords 1
+c++ gcc linux network-security 1
+algorithm c++ cryptography montgomery-multiplication rsa 1
+c++ encryption hex passwords 1
+byte c++ cryptography nibble shift 1
+c++ cryptography java rsa 1
+c++ caesar-cipher cryptography encryption 1
+algorithm c++ cryptography encryption rsa 1
+c++ file fstream passwords username 1
+c++ obfuscation passwords string 1
+c++ cryptography encryption python 1
+c++ encryption passwords winzip 1
+c++ cryptography sha 1
+c c++ security stl strcpy 1
+c++ configuration-files database passwords 1
+c# c++ manifest security uac 1
+c++ c++11 logic security 1
+.net binaries c++ decompiling security 1
+c c++ macos security 1
+allocator arrays c++ c++11 cryptography 1
+arrays c++ passwords 1
+c++ c++17 filesystems google-style-guide security 1
+c++ cryptography encryption rc4-cipher 1
+c++ cryptography ffi node.js windows 1
+aes c++ cryptography galois-field modular-arithmetic 1
+c++ cryptography passwords random security 1
+c++ cryptography license-key 1
+c++ encryption cryptography seal 1
+c++ random cryptography rsa 1
+c++ file random passwords generator 1
+c++ while-loop passwords infinite 1
+c++ encryption cryptography salt rc4-cipher 1
+c++ security string-concatenation 1
+c++ node.js linux security amazon-ec2 1
+aes c++ openssl password-encryption 1
+c++ crypt crypto++ visual-leak-detector 1
+android android-ndk c c++ java-native-interface 1
+c++ thread-safety unit-testing 1
+c++ cryptoapi rijndaelmanaged 1
+c++ encryption pbkdf2 1
+c++ encode encryption 1
+c++ copy-protection drm embed encryption 1
+base64 c++ feature-descriptor opencv surf 1
+c++ symbian 1
+c c++ linux php wordpress 1
+c c++ encryption linux openssl 1
+c c++ checksum crc crc16 1
+c c# c++ des encryption 1
+blowfish c++ 1
+c++ c++-standard-library encryption 1
+c++ encode java package 1
+c++ data-protection encoding 1
+c++ systemc 1
+buffer-overflow c c++ 1
+bind boost c++ member-functions signals 1
+c++ caesar-cipher encryption 1
+c++ string 1
+c++ encryption hash sha sha1 1
+c++ openid openid-provider php simple-machines-forum 1
+c++ encryption xor 1
+c++ encryption server 1
+algorithm c++ checksum 1
+c++ mysql 1
+algorithm c++ c++11 hash stdhash 1
+authenticode c++ cab code-signing windows 1
+c++ lua openssl 1
+c++ regex 1
+c++ encryption license-key licensing 1
+c++ encryption qt text-files 1
+c++ hash sha1 1
+biginteger c++ hash md5 1
+aes c++11 cbc-mode encryption 1
+c++ hashmap multithreading 1
+c++ encryption math rsa 1
+c++ http image opencv poco-libraries 1
+c++ file hash md5 validation 1
+.net c++ encryption java python 1
+c++ c++11 hash type-conversion types 1
+apache apache2 c++ encryption ubuntu 1
+c c++ compiler-construction decompiler macos 1
+c++ linux setuid shell 1
+aes c++ encryption encryption-asymmetric public-key-encryption 1
+c++ fstream while-loop 1
+c++ encryption winapi windows 1
+c++ md5 openssl 1
+c++ encryption mysql 1
+c++ fstream 1
+algorithm c c++ 1
+c++ hash string 1
+c++ encryption rsa winapi 1
+c++ trojan virus warnings 1
+biometrics c++ private-key public-key-encryption 1
+c++ dpapi encryption powershell securestring 1
+c++ digital-signature dsa openssl 1
+base64 c++ openssl 1
+bcrypt c++ encryption qt 1
+c++ encryption gmp hash sha 1
+c++ key password-hash salt 1
+c c++ hash linux sha512 1
+c++ compilation crypto++ dll qt 1
+c++ dll dll-injection obfuscation project-properties 1
+c++ fstream readline 1
+c c++ crc32 1
+avx c c++ md5 sse2 1
+boost c++ hash sha1 1
+assembly c++ reverse-engineering 1
+c++ hash hashtable string 1
+c++ openssl sha1 1
+algorithm antivirus c++ database winapi 1
+c++ user-interface 1
+c c++ cng debugging winapi 1
+c++ data-structures hash 1
+c++ md5 qt 1
+brute-force c++ oneway openssl 1
+c++ ssl vb.net 1
+c++ hash openssl sha 1
+arrays c++ char hex string 1
+antivirus c++ malware malware-detection virus 1
+bcrypt c++ node.js npm python 1
+c++ encryption file text 1
+c++ python 1
+c++ openssl protocols ssh 1
+c++ decompiler encryption exe fstream 1
+c++ input text-files 1
+aes c++ openssl utf-8 1
+c++ cryptoapi trusted-timestamp 1
+c++ ffmpeg 1
+c++ content-management-system objective-c openssl xcode 1
+c++ http javascript youtube 1
+c# c++ certificate digital-signature 1
+c++ libpqxx persistence string 1
+aes c c++ encryption openssl 1
+c++ c++11 openssl 1
+boost boost-asio c++ ssl 1
+arrays byte c++ compression encryption 1
+c++ cross-platform digital-signature portable-executable validation 1
+c++ hex 1
+antivirus c++ 1
+c c++ multithreading pthreads thread-safety 1
+bcrypt c++ libpqxx postgresql 1
+c++ visual-studio-2013 1
+c c++ sha 1
+c# c++ outlook 1
+c c++ cocoa objective-c 1
+c++ multithreading safearray vb.net vba 1
+blowfish c++ crypt 1
+c++ c++builder encryption-asymmetric public-key-encryption 1
+c++ c++11 visual-c++ 1
+c++ encryption qt qt4 sqlite 1
+c++ encryption linux signing windows 1
+c++ executable visual-studio-2012 1
+c c++ compiler-construction obfuscation 1
+c++ md5 openssl python 1
+aes byte c++11 cbc-mode random 1
+c c++ embedded embedded-linux openssl 1
+c++ encryption qt 1
+.net-2.0 aes c++ encryption rijndael 1
+c c++ configuration-files encryption openssl 1
+c++ encryption private-key rsa 1
+aes c++ crypto++ 1
+aes android android-ndk c++ rsa 1
+c++ windows winsock-lsp 1
+c++ obfuscation string 1
+c++ function hash 1
+c++ configuration encryption 1
+algorithm c++ hash md5 sha 1
+assembly c++ 1
+c++ copy-protection obfuscation 1
+c++ encryption openssl post-quantum-cryptography public-key-encryption 1
+c++ checksum java 1
+c++ javascript qt 1
+c++ md5 1
+c++ encryption text-files 1
+c++ crc32 dll 1
+c c++ digest hash 1
+c++ encryption openssl sockets 1
+c++ multithreading openssl thread-safety 1
+c++ encoding encryption matrix obfuscation 1
+c++ mfc resource-dll 1
+boost c++ hash openssl ssl 1
+boost c++ deterministic hash 1
+c++ openssl rc4-cipher 1
+c c++ openssl sqlite 1
+arduino arrays c c++ password-protection 1
+blowfish c c++ encryption php 1
+aes c++ encryption haiku python 1
+assembly c c++ 1
+c++ linux unix 1
+authentication c c++ macos 1
+c++ hash md5 sha1 1
+c c++ linux ms-office 1
+aes c c++ encryption 1
+c++ mfc string type-conversion 1
+c++ encryption text 1
+c++ ffmpeg x264 1
+c++ hash md5 1
+c++ dsa rsa 1
+c++ checksum hash orm 1
+c++ libjpeg libx264 qt 1
+aes c++ encryption 1
+c++ encryption winapi 1
+c++ encryption hash python 1
+c++ encode text 1
+c++ password-encryption qt sql 1
+c++ encryption pgp signature 1
+c c++ hash 1
+algorithm c c++ des encryption 1
+c c++ sqlite wxwidgets 1
+c++ hash java php sha1 1
+c++ embedded-linux qt 1
+android android-ndk c++ encryption 1
+c++ quazip unzip 1
+c++ c++11 debugging identity stdhash 1
+c++ password-protection password-recovery registry windows 1
+binary c++ parsing stdio 1
+c c++ coldfusion hash 1
+algorithm antivirus c++ database string-comparison 1
+c++ crypto++ encryption 1
+c++ checksum crc hash md5 1
+algorithm c++ encryption 1
+c++ encryption openssl 1
+c c++ encryption filesystems 1
+banking c++ login 1
+c++ crypt obfuscation 1
+antivirus c++ string trojan virus 1
+c++ compression encryption password-protection 1
+c++ c++11 openssl random salt 1
+c++ digital-signature windows 1
+c++ encryption encryption-asymmetric 1
+c++ codeblocks encryption message 1
+c++ gnu signal-processing viterbi 1
+asp.net-membership c++ hash 1
+binary c++ encryption 1
+c++ lua qt qtscript 1
+c++ encryption firefox 1
+c++ copy-protection windows 1
+c++ disassembly dll protection 1
+c++ checksum dmg macos 1
+c++ hash hashalgorithm 1
+c++ hash md5 openssl sha1 1
+c++ checksum 1
+c++ crc 1
+c c++ encryption-asymmetric 1
+c++ decoding file ifstream iostream 1
+c++ login model-view-controller oop user-interface 1
+c++ cryptoapi encryption 1
+c++ crypto++ hash pbkdf2 1
+c++ compiler-errors encryption 1
+c++ javascript murmurhash python scikit-learn 1
+c++ erase-remove-idiom qhash qt 1
+c++ char encryption 1
+c++ login 1
+c++ openssl rc4-cipher salt 1
+c++ hash python 1
+c c++ linux sockets 1
+c++ epoll handshake openssl performance 1
+c++ lua qt 1
+aes c++ openssl 1
+c++ run-length-encoding 1
+bash c++ qt 1
+c++ checksum io md5 sha 1
+c++ qsettings qt qt5 qt5.5 1
+c++ checksum hash qt 1
+c c++ encryption 1
+c++ crypto++ hash 1
+c++ password-encryption 1
+c++ cracking encryption protection 1
+antivirus c c++ turbo-c++ windows-7 1
+c++ qt zlib 1
+c++ file login while-loop 1
+android c++ java java-native-interface sqlcipher 1
+c c++ execute input linux 1
+algorithm c++ encryption zip 1
+arrays c c++ crc types 1
+algorithm c++ hash string 1
+authentication c++ 1
+c++ encryption java java-native-interface 1
+c++ libsodium 1
+c++ hashcode murmurhash 1
+c++ boost hash hashcode 1
+c++ hash language-lawyer std 1
+android c++ android-ndk 1
+c++ openssl jwt google-oauth 1
+c++ embedded packet crc16 samd21 1
+
+
+TOPIC 1: 
+c c++ linux passwords ubuntu 1
+c++ libcurl proxy singleton thread-safety 1
+c++ libcurl login 1
+c++ certificate code-signing winapi windows 1
+c++ curl libcurl post 1
+
+
+TOPIC 2: 
+c++ openssl 6
+c++ openssl ssl 6
+c++ qt ssl 4
+c++ openssl ssl ssl-certificate 3
+c++ cmake cryptography 2
+c++ cryptography 2
+botan c++ cryptography visual-c++ 2
+c c++ openssl ssl 2
+aes c++ openssl 2
+c++ 2
+c++ encryption 2
+boost boost-asio c++ openssl ssl 2
+c++ cryptography mingw winapi 1
+c++ crypto++ cryptography 1
+c c++ cryptography hash 1
+c++ kerberos security windows windowsdomainaccount 1
+c++ crypto++ cryptography qt symbian 1
+c++ cmake cryptography qt qt5 1
+c++ chilkat cmake cryptography rsa 1
+c c++ cryptography heap-corruption visual-studio-2012 1
+c++ cryptography curl libcurl openssl 1
+botan c++ cryptography qt 1
+c++ commoncrypto cryptography md5 xcode 1
+c++ escaping linux security 1
+c# c++ certificate driver security 1
+c++ crypto++ cryptography hash whirlpool 1
+c++ gsoap linux ws-security 1
+.net c++ migration security 1
+c++ gcc include security 1
+c++ network-security pcap sniffing 1
+arrays c++ cryptography 1
+c++ cryptography md5 openssl 1
+c++ cryptography openssl qt 1
+c++ openssl security ssl 1
+c++ cryptography encryption openssl visual-studio 1
+c++ macos qt security ssl 1
+c c++ cryptography winapi 1
+c++ mysql security visual-studio 1
+c++ cryptoapi cryptography visual-studio-2013 windows 1
+c++ cryptography seal visual-studio 1
+c c++ compiler-errors cryptography 1
+c++ macos security 1
+c++ cryptography header linux sha256 1
+aes c++ compilation cryptography makefile 1
+c c++ compilation gcc security 1
+aes c++ crypto++ cryptography encryption 1
+c++ cryptography openssl visual-c++ 1
+c++ crypto++ cryptoapi cryptography 1
+c++ cryptography visual-studio-2013 1
+c++ codelite cryptography libsodium nacl-cryptography 1
+c++ crypto++ cryptography visual-c++ 1
+c++ cryptography libraries 1
+c++ cryptography gmp xcode 1
+c++ cmake cryptography ntl visual-studio 1
+c++ local-security-authority security winapi 1
+c++ cryptography openssl 1
+botan c++ cryptography pkcs#11 visual-studio 1
+c++ cryptography mingw32 qmake qt 1
+c++ cryptography mcrypt visual-c++ 1
+c++ cryptography digital-signature openssl x509certificate 1
+c c++ cryptography linux openssl 1
+c++ code-access-security x86 1
+c c++ cryptography linux pkcs#7 1
+c++ cryptography fips openssl poco-libraries 1
+c++ dacl security winapi windows 1
+c++ cryptography error-list long-long win32-process 1
+c c++ openssl security ssl 1
+c++ memory-leaks openssl 1
+c++ crypto++ linker 1
+c++ openssl visual-c++ 1
+c++ macos openssl ssl 1
+c++ client-side network-programming openssl ssl 1
+boost-asio c++ https ssl 1
+c++ libssh2 private-key public-key ssh 1
+authentication c++ libssh linux suse 1
+boost boost-asio c++ error-handling 1
+c++ crypto++ 1
+c++ nasm openssl 1
+c++ embedded-linux qt ssl 1
+boost boost-asio c++ linux ssl 1
+c c++ libssl openssl ssl 1
+boost c++ ssl 1
+betfair c++ https qt ssl-certificate 1
+c++ crypto++ linux 1
+c++ openssl peer ssl verification 1
+c c++ openssl visual-studio-2012 1
+c++ c++builder dll indy ssl 1
+c++ unresolved-external visual-studio 1
+c++ memory-leaks openssl valgrind 1
+c++ openssl sha visual-studio-2010 1
+c++ visual-studio windows 1
+boost boost-asio c c++ openssl 1
+c++ gsoap openssl ssl 1
+c++ gsoap openssl soap ssl-certificate 1
+c++ encryption exe 1
+c++ curl libcurl openssl ssl 1
+c++ hash openssl 1
+c++ openssl ssl visual-studio 1
+base64 c c++ decode openssl 1
+c++ md5 unsigned wincrypt 1
+c++ https openssl ssl 1
+c++ openssl soap soap-client 1
+c c++ linker ssl 1
+c++ linux openssl 1
+aes c++ encryption linux openssl 1
+c++ gsl multithreading openmp thread-safety 1
+c++ crypto++ encryption ubuntu windows 1
+c++ qsslsocket qt 1
+boost c++ macos ssl 1
+c++ certificate java openssl 1
+c c++ windows 1
+boost boost-asio c++ openssl 1
+c++ curl libcurl ssl windows 1
+c++ openssl qsslsocket qt ssl 1
+c c++ openssl 1
+c++ libressl openssl 1
+android-ndk c++ cocos2d-x openssl ssl 1
+3des c++ encryption linux 1
+authentication c++ openssl 1
+activemq c++ openssl ssl ssl-certificate 1
+c++ compilation ssl visual-studio 1
+c++ ffmpeg visual-studio visual-studio-2010 visual-studio-2012 1
+aes c++ crypto++ encryption visual-studio-2010 1
+c c++ openssl sockets ssl 1
+c++ certificate gsoap openssl ssl-certificate 1
+boost boost-asio c++ ssl 1
+c++ ssl 1
+c++ firebase 1
+c++ encryption mfc rijndael 1
+c++ console server service ssl 1
+c++ md5 openssl sha visual-studio-2012 1
+c++ gcc libssh linux 1
+boost c++ linux 1
+activemq c++ mqtt ssl 1
+azerothcore c++ cmake 1
+c++ openssl qt 1
+c++ dpkg linker openssl 1
+c++ openssl self-signed-certificate 1
+c++ encryption openssl tls1.2 1
+c c++ ldap windows 1
+aes c++ eclipse mingw openssl 1
+boost-asio c++ openssl pem ssl 1
+c++ python ssl tls1.2 1
+build c++ openssl visual-studio 1
+c++ linux openssl rc4-cipher 1
+c++ schannel ssl windows 1
+c++ cygwin node.js openssl waf 1
+c++ g++ libcurl ssl 1
+c++ openssl thrift 1
+c++ linux visual-studio-2017 windows-subsystem-for-linux 1
+c++ encryption openssl 1
+c++ qt qtwebsockets ssl websocket 1
+c++ macos 1
+c c++ openssl pfx pkcs#12 1
+c++ debian hmac openssl sha256 1
+c++ debugging linux openssl 1
+c++ curl https openssl 1
+c++ symbian 1
+c++ encryption openssl pki 1
+c++ gsoap saml saml-2.0 soap 1
+c# c++ openssl sockets ssl 1
+boost-thread c++ gdb libcrypto libssh 1
+c++ openssl static-libraries 1
+c++ cryptoapi openssl ubuntu 1
+c++ mongodb openssl ubuntu undefined-reference 1
+c++ gcc openssl sha256 1
+android android-ndk android-studio boringssl c++ 1
+c++ ldap openssl ssl windows 1
+c++ libssh ssh visual-studio-2015 1
+c++ openssl rsa x509 x509certificate 1
+algorithm c++ des encryption openssl 1
+c++ login quickfix 1
+c++ openssl ssl visual-studio-6 1
+android android-emulator c++ ddms exploit 1
+c++ gsoap ssl wsdl 1
+c++ openssl visual-c++ visual-studio-2008 windows 1
+c++ encryption java openssl 1
+c++ curl http linux openssl 1
+c++ cryptocurrency https openssl ssl 1
+c c++ linux openssl signals 1
+c++ qt 1
+c++ iostream openssl 1
+c++ networking quickfix ssl 1
+c++ linker poco ssl 1
+c++ curl ssl 1
+aes c++ visual-studio-2015 1
+c++ ios openssl poco poco-libraries 1
+aes c++ encryption openssl visual-studio 1
+boost-asio c++ openssl 1
+android android-ndk c++ linux openssl 1
+c++ cocos2d-x crypto++ ios xcode 1
+c++ encryption macos xcode 1
+c++ qprocess qt 1
+c++ qt qt5 sockets ssl 1
+c++ casting 1
+c++ iocp openssl 1
+c++ curl gcc openssl 1
+c++ encryption qt ssl windows 1
+c++ poco-libraries wss 1
+c++ openssl visual-studio-2013 1
+c++ installation ssl ubuntu 1
+c c++ libssh solaris 1
+c++ openssl qt ssl 1
+c++17 openssl sockets tcp ubuntu 1
+c++ signals thread-sanitizer 1
+c++ credentials winapi 1
+boost boost-asio boost-beast c++ openssl 1
+c++11 gsoap openssl 1
+bcrypt c++ gcc linux 1
+c++ windows ssl-certificate cryptoapi 1
+c++ hyperlink openssl aes 1
+c++ multithreading openssl thread-safety 1
+
+
+TOPIC 3: 
+c++ openssl 14
+c++ openssl rsa 11
+c++ crypto++ cryptography 7
+c++ crypto++ cryptography rsa 7
+c++ encryption openssl rsa 5
+c c++ encryption openssl rsa 4
+c++ crypto++ ecdsa 4
+c++ cryptography 3
+c++ cryptography openssl 3
+c++ crypto++ 3
+c++ encryption java openssl 3
+c++ crypto++ digital-signature rsa 3
+c++ symbian 3
+c++ crypto++ rsa 3
+c c++ openssl rsa 3
+c++ 3
+c c++ openssl 3
+c++ encryption rsa 3
+c# c++ cryptography encryption rsa 2
+aes c++ cryptoapi cryptography encryption 2
+c c++ cryptography openssl rsa 2
+c++ cryptoapi cryptography pem windows 2
+c++ cng cryptography 2
+c++ cryptography pkcs#7 2
+c c++ cryptography dsa openssl 2
+c c++ cryptoapi cryptography 2
+c++ cryptography encryption java rsa 2
+c++ cryptography openssl rsa 2
+c++ cryptography cryptoapi ecdsa cng 2
+c++ crypto++ public-key-encryption rsa 2
+botan c++ 2
+c++ openssl public-key 2
+c++ crypto++ encryption rsa 2
+c++ digital-signature openssl 2
+c++ cryptoapi 2
+c++ linux openssl ssl 2
+c++ hmac openssl 2
+c++ hash 2
+c++ digital-signature openssl rsa sha256 2
+c++ encryption openssl 2
+c++ cryptography openssl security sha1 1
+algorithm boost c++ cryptography stl 1
+c++ crypto++ cryptography ecdsa signing 1
+c++ cryptoapi cryptography digital-signature openssl 1
+asn.1 c++ cryptography 1
+c++ cryptoapi cryptography openssl rsa 1
+c++ cng cryptoapi cryptography 1
+c++ cryptography encryption java 1
+advapi32 c++ cryptography winapi 1
+c++ cryptography digital-signature xml xml-signature 1
+c++ cryptography digital-signature openssl pkcs#7 1
+c++ cryptography openssl pkcs#7 1
+c++ hmac openssl security ssl 1
+c++ cryptography ecdsa openssl 1
+bouncycastle c++ crypto++ cryptography java 1
+c++ crypto++ cryptography visual-c++ 1
+aes c++ cryptoapi cryptography 1
+c++ cryptoapi cryptography mscapi rsa 1
+c# c++ cryptography openssl rsa 1
+c c++ cryptography openssl sign 1
+c c++ cryptoapi cryptography windows 1
+c++ cng cryptography elliptic-curve 1
+c++ cryptography hmac sha256 1
+c c++ cryptography python sha512 1
+c++ cryptography rsa 1
+authentication c++ onvif qt security 1
+c++ cryptography elliptic-curve 1
+c++ cryptography ssl winapi 1
+c++ dsa java java-security openssl 1
+android c++ cryptography java 1
+c++ cryptoapi cryptography wincrypt windows 1
+c++ cryptography digital-signature rsa security 1
+c# c++ cryptography openssl poco 1
+c++ cryptography digital-signature hsm x509 1
+c# c++ cryptography ecdsa openssl 1
+c c++ cryptography sha1 1
+c++ crypto++ cryptography elliptic-curve 1
+c++ crypto++ cryptography public-key-encryption rsa 1
+c++ cryptoapi cryptography windows 1
+c++ cryptoapi cryptography hsm pkcs#11 1
+c++ converter cryptography php sha1 1
+c++ crypto++ cryptography elliptic-curve hmac 1
+c++ crypto++ passwords pbkdf2 1
+c++ cryptography openssl pem rsa 1
+c++ cryptography visual-c++ 1
+c c++ cryptography openssl 1
+c++ crypto++ cryptography encryption rsa 1
+c c++ cryptoapi cryptography sha 1
+c++ cryptography hash md5 1
+base64 c++ cryptography hmac openssl 1
+c++ crypto++ cryptography pbkdf2 1
+c++ cryptography hash libcrypto openssl 1
+c++ cryptography libcrypto openssl 1
+asn1 c++ cryptoapi cryptography digital-signature 1
+asn.1 c++ cryptography openssl 1
+c c++ cryptography 1
+botan c++ cryptography 1
+c++ cryptography export key winapi 1
+c c++ cryptography hash 1
+c++ cryptography static-libraries static-linking 1
+c++ cryptoapi cryptography openssl pkcs#7 1
+c++ cryptography encryption 1
+c++ cryptography pkcs#11 x509 x509certificate 1
+c++ digital-signature security windows xml 1
+c++ crypto++ cryptography diffie-hellman 1
+bignum c c++ cryptography openssl 1
+c++ cryptography encoding openssl 1
+c++ cryptography elliptic-curve openssl 1
+c++ crypto++ cryptography java openssl 1
+c++ cng cryptoapi cryptography rsa 1
+c++ crypto++ diffie-hellman java java-security 1
+c c++ cng cryptography 1
+c++ cryptography javascript node.js rsa 1
+c++ cryptoapi cryptography visual-studio-2010 1
+botan c++ cryptography qt 1
+c++ cryptoapi cryptography winapi 1
+c++ security sign 1
+c++ cryptoapi cryptography rsa windows 1
+apache c++ resources security xml 1
+c c++ cryptography rsa 1
+c++ crypto++ cryptography rsa smartcard 1
+c++ cryptography visual-studio-2013 windows 1
+c++ cryptography hmac 1
+c++ cryptoapi cryptography digital-signature ocx 1
+c++ cryptography signing windows 1
+c++ cryptoapi cryptography encryption openssl 1
+c++ cryptography encryption openssl 1
+c++ cryptography ecdsa 1
+c++ crypto++ cryptography openssl public-key-encryption 1
+c++ cryptography digital-signature java windows 1
+c++ crypto++ cryptography interop 1
+c++ cryptoapi cryptography mscapi 1
+c++ cryptography mscapi openssl pem 1
+c++ crypto++ cryptography ecdsa openssl 1
+c++ cryptography windows-runtime 1
+c# c++ crypto++ cryptography encryption 1
+.net c++ cryptography rsa tpm 1
+.net c++ cryptoapi cryptography encryption 1
+c# c++ crypto++ cryptography windows 1
+c++ cryptoapi cryptography java security 1
+c++ cryptography hmac hmacsha1 sha1 1
+c++ cryptography hmac hmacsha1 1
+c++ cryptography pbkdf2 1
+c++ crypto++ cryptography public-key public-key-encryption 1
+c++ cryptography libsodium public-key-encryption 1
+c++ cryptography openssl qt rsa 1
+c++ cryptography hmac hmacsha1 java 1
+c c++ cryptography gnupg gpgme 1
+c++ cryptoapi openssl security 1
+c# c++ cryptography encryption 1
+c++ cryptoapi cryptography pkcs#11 1
+c++ cryptography encryption openssl rsa 1
+c++ cryptography encryption key-generator seal 1
+c c++ cryptography encryption public-key-encryption 1
+c c++ security tpm 1
+.net c++ cryptography openssl rsa 1
+algorithm c++ cryptography ipsec openssl 1
+c++ crypto++ cryptography der 1
+c++ cryptography openssl pkcs#7 signature 1
+c++ cng cryptography openssl windows 1
+c# c++ cryptography ecdh openssl 1
+c++ visual-c++ cryptography x509 cng 1
+c++ c++11 go cryptography crypto++ 1
+c++ cryptography rsa crypto++ 1
+c++ cryptography rsa cng 1
+python c++ encryption cryptography rsa 1
+c++ crypto++ fuse s3fs 1
+c++ digital-signature openssl rsa 1
+c++ openssl pki rsa 1
+c++ crypto++ encryption java rsa 1
+c c++ openssl php php-openssl 1
+c++ c++11 hash 1
+c c++ macos openssl sha256 1
+aes c++ encryption qt 1
+c++ cryptoapi rsa winapi 1
+c++ libcrypto openssl 1
+c++11 ssl ssl-certificate windows-runtime 1
+amazon-web-services authorization c++ digital-signature rest 1
+c++ rsa virtual-machine 1
+c++ checksum openssl sha256 1
+c c++ linux openssl 1
+c++ openssl sign 1
+c++ crypto++ encryption openssl rsa 1
+bcrypt c++ crypt key private 1
+.net c++ openssl rsa 1
+c++ encryption hash rsa sha256 1
+aes c++ ssl wolfssl 1
+authenticode c++ cryptoapi winapi windows 1
+c++ encryption md5 openssl 1
+c c++ openssl ssl-certificate x509certificate 1
+c++ certificate 1
+c++ der ecdsa openssl 1
+c++ certificate cng key 1
+bytearray c++ windows 1
+c# c++ crypto++ rsacryptoserviceprovider 1
+c++ openssl openssl-cms sign verify 1
+base64url c++ jwt openssl 1
+c++ encryption openssl php rsa 1
+c++ libcrypto sha-3 1
+c++ qt 1
+c c++ openssl public-key-encryption rsa 1
+c++ crypto++ hash nul string 1
+c++ winapi 1
+c++ crypto++ ecdsa private-key signer 1
+c# c++ encryption pbkdf2 windows-runtime 1
+c++ certificate cryptoapi private-key windows 1
+c++ hash hmacsha1 sha1 string 1
+c c++ certificate openssl x509 1
+aes c++ encryption openssl rsa 1
+c++ certificate x509 1
+c++ des openssl tripledes 1
+c# c++ cryptoapi digital-signature rsa 1
+c++ cryptoapi encryption mscapi vb.net 1
+c++ com mscapi openssl 1
+c++ openssl ssl 1
+c++ crypto++ interop java rsa 1
+.net c++ key openssl rsa 1
+c++ openssl pem tls1.2 x509certificate 1
+c++ crypto++ onvif 1
+c++ crypto++ encryption windows 1
+c++ openssl qt rsa-sha256 1
+c++ encryption public-key qt5 1
+c++ hmac sha256 1
+c++ ecdsa openssl 1
+blob c++ cng key 1
+aes c++ encryption java jce 1
+c++ openssl pkcs12 rsa 1
+aes c# c++ 1
+c++ openssl python rsa sign 1
+c++ crypto++ pem 1
+bitcoin c c++ openssl 1
+c++ openssl pkcs#11 1
+c++ crypto++ rsa type-conversion 1
+c c++ cross-platform hash 1
+c++ openca openssl pkcs#7 1
+botan c++ encryption-asymmetric qt rsa 1
+c++ cryptoapi encryption gnupg 1
+c++ crypto++ encryption 1
+c++ digital-signature java openssl 1
+c++ cocoa openssl rsa 1
+c++ openssl rsa signature 1
+c++ encryption 1
+c++ java openssl 1
+c++ php porting sha256 1
+c++ crypto++ ecdsa hex 1
+c++ certificate encryption openssl pkcs#7 1
+c++ encryption java 1
+c# c++ openssl pkcs#7 1
+aes c++ crypto++ key 1
+c++ cryptoapi openssl php 1
+c++ openssl php rsa windows 1
+c++ private-key public-key 1
+c++ digital-signature encryption kerberos sspi 1
+android-ndk c c++ java openssl 1
+c++ openssl public-key rsa 1
+c++ poco-libraries public-key-encryption text 1
+c++ java md5 1
+c++ encryption openssl rsa sha256 1
+c c++ encryption ssl 1
+c++ digital-signature openssl rsa sign 1
+c++ openssl rsa size 1
+c++ jwt openssl 1
+c++ cng hash sha-3 winapi 1
+c++ crypto++ eclipse 1
+asn.1 c++ cryptoapi openssl x509 1
+c++ cryptoapi encryption public-key rsa 1
+c++ crypto++ private-key rsa 1
+c++ digital-signature windows-8 winverifytrust 1
+c++ cryptoapi digital-signature visual-c++ 1
+aes c++ cryptoapi encryption windows 1
+c++ crypto++ hmacsha1 oauth 1
+aes c++ encryption key libsodium 1
+bouncycastle c++ crypto++ java 1
+c++ encryption rsa winhttp 1
+c++ digital-signature hash windows x509certificate 1
+c++ ecdsa libssl ssh 1
+c++ email email-validation openssl visual-c++ 1
+c++ hmacsha1 openssl 1
+c++ md5 1
+c++ sha256 1
+c++ der openssl pkcs#12 private-key 1
+c c++ rsa tpm trusted-computing 1
+c++ evp-cipher md5 md5sum openssl 1
+aes c++ cryptoapi encryption 1
+c c++ encryption mscapi 1
+c++ char encryption openssl rsa 1
+c# c++ encryption hash winapi 1
+c++ ecdsa public-key-encryption 1
+botan c++ encryption sha 1
+c++ cng cryptoapi hash 1
+addition c++ ecdsa modular-arithmetic openssl 1
+c++ libtomcrypt openssl 1
+c++ cryptoapi key private public 1
+c++ cryptoapi hash sign winapi 1
+c++ hash hashmap templates unordered-map 1
+c# c++ command-line-interface pem ssl-certificate 1
+c# c++ openssl rsa 1
+c++ cryptoapi encryption keystore 1
+c# c++ rsa 1
+c++ cryptoapi pyopenssl python 1
+android-ndk c++ 1
+c++ crypto++ digital-signature 1
+c++ cryptoapi ssl 1
+botan c++ pycrypto python rsa 1
+c++ client-server crypto++ encryption type-conversion 1
+c++ visual-c++ winapi 1
+c c++ hash openssl 1
+amazon-dynamodb amazon-web-services c++ hmac openssl 1
+c++ encryption google-oauth qt 1
+c++ encryption websocket 1
+base64 c++ crypto++ encoding rsa 1
+aes c++ encryption 1
+c++ cryptoapi encryption java 1
+c++ encryption openssl public-key-encryption 1
+asn1 c++ ecdsa openssl x509 1
+c c++ cryptoapi ssl 1
+c++ rsa 1
+amazon-web-services c++ 1
+bouncycastle c++ java openssl rsa 1
+c++ encryption hybrid java sockets 1
+blackberry-10 c++ encryption rsa 1
+c++ encryption-asymmetric wincrypt 1
+c++ go openssl rsa 1
+c++ cryptoapi der pem windows-ce 1
+c++ openssl pkcs#7 smartcard 1
+bouncycastle c++ crypto++ ecdsa java 1
+base64 c++ crypto++ 1
+c c++ public-key-encryption rsa 1
+c++ digital-signature rsa 1
+android c++ java md5 qt 1
+c c++ crypt windows 1
+c# c++ ecdsa openssl signing 1
+adler32 c++ crypto++ hash md5 1
+c++ c++03 g++ pool 1
+c++ hash md5 winapi windows 1
+c c++ cryptoapi rsacryptoserviceprovider winapi 1
+c++11 ecdsa openssl public-key 1
+c++ openssl soap x509 x509certificate 1
+c++ cryptoapi digital-signature java rsa 1
+c++ crypto++ hash ruby sha1 1
+botan c++ pkcs#7 1
+c++ cryptoapi encryption winapi 1
+c++ encryption qt rsa windows 1
+c++ cryptoapi encryption windows 1
+c++ openssl p2p rsa 1
+c++ certificate openssl ssl 1
+c++ md5 stdstring 1
+c++11 encoding encryption java openssl 1
+c++ crypto++ dsa public-key-encryption 1
+bouncycastle c# c++ openssl 1
+c++ encryption openssl padding rsa 1
+authentication c++ dsa openssl sha 1
+c++ compression crypto++ ecdsa public-key 1
+c++ openssl private-key public-key rsa 1
+c++ html javascript php phpmyadmin 1
+aes c++ pycrypto python wincrypt 1
+c++ cryptoapi encoding windows x509 1
+c++ hash qstring qt 1
+c++ csr openssl sign 1
+c++ encryption java visual-studio 1
+c++ encryption libcrypto openssl rsa 1
+bignum c++ encryption openssl rsa 1
+c++ openssl php sign verify 1
+c++ openssl saml signature 1
+c++ ssl-certificate visual-c++-2010 winhttp 1
+c++ wfp windows 1
+c++ crypto++ encryption java qt 1
+c++ encryption openssl poco-libraries 1
+c++ encryption openssl rsa winapi 1
+c# c++ 1
+c++ cross-platform openssl pem rsa 1
+arrays c c++ encryption openssl 1
+c++ md5 mysql qt sha256 1
+c++ crypto++ openssl 1
+c++ cng php public-key-encryption winapi 1
+c++ c++builder hash indy sha 1
+c++ hash md5 sha1 1
+c++ openssl x509 1
+c# c++ encryption-asymmetric 1
+c++ libcurl oauth 1
+c c++ cryptoapi delphi 1
+c++ encryption hash 1
+c++ crypto++ elliptic-curve public-key-encryption 1
+c++ crypto++ hash 1
+c++ md5 wincrypt 1
+c++ certificate digital-signature message-digest windows 1
+c c++ encryption rsa 1
+c++ cryptoapi windows 1
+c++ hmac openssl php sha256 1
+c++ sha 1
+c++ nss 1
+c++ hashtable 1
+c++ io.js node.js openssl 1
+arm c++ poco-libraries public-key-encryption 1
+c++ encryption openssl terminal unit-testing 1
+c++ cng cryptoapi winapi wincrypt 1
+c++ download encryption rsa verification 1
+c++ encryption-asymmetric libgcrypt public-key rsa 1
+c++ certificate encryption openssl rsa 1
+c# c++ sha1 wrapper 1
+c++ hash openssl sha sha256 1
+c++ digital-signature 1
+c c++ openssl python x509certificate 1
+c++ ecdsa openssl performance 1
+c# c++ signature xml 1
+c++ decode hmac 1
+c++ export visual-studio 1
+base64 c++ crypt openssl 1
+c++ crypto++ interface 1
+c++ crypto++ visual-c++ 1
+c c++ openssl pbkdf2 sha256 1
+c++ openssl ssl-certificate 1
+asn.1 c++ ecdsa openssl 1
+c++ ecdh node.js 1
+c++ android-ndk openssl rsa 1
+c++ openssl hmac 1
+php c++ openssl cng 1
+c++ openssl rsa public-key pem 1
+c++ encryption openssl rc4-cipher 1
+c++ openssl x25519 1
+c++ jwt amazon-cognito poco-libraries 1
+
+
+TOPIC 4: 
+android android-ndk c++ openssl 1
+c++ cross-compiling 1
+c++ cross-platform openssl sockets 1
+
+
+TOPIC 5: 
+c++ cryptography ntruencrypt polynomials 1
+c++ cryptography matlab matrix-multiplication 1
+c++ google-protocol-buffer protocol-buffers 1
+
+
+TOPIC 6: 
+c++ openssl ssl 5
+c++ openssl 4
+c++ openssl ssl-certificate 4
+c++ certificate windows 3
+c++ openssl security ssl ssl-certificate 2
+c++ libcurl 2
+c++ openssl windows 2
+boost boost-asio c++ openssl 2
+c++ certificate openssl x509 x509certificate 2
+c c++ openssl ssl x509 2
+c++ openssl x509certificate 2
+c++ https ssl 2
+c++ certificate cryptography root-certificate winapi 1
+activex c++ internet-explorer security trusted-sites 1
+c++ cryptography winapi 1
+c++ file obfuscation output security 1
+c# c++ cryptography mscapi x509certificate 1
+c++ cryptography encryption java ssl 1
+c++ cryptography ocsp openssl x509 1
+c# c++ certificate security windows-services 1
+c++ cryptography embedded-linux openssl ssl 1
+c++ firefox security ssl 1
+authenticode c++ cryptography winapi 1
+authentication c++ cryptography openssl 1
+asn.1 c++ cryptography ocsp openssl 1
+c++ cryptography firefox firefox-addon pkcs#11 1
+c++ cryptography digital-signature winapi 1
+c++ java php security sign 1
+c c++ cryptography openssl 1
+c++ cryptography visual-studio 1
+c++ security openssl 1
+c++ cryptography digital-signature 1
+biometrics c++ dll driver winapi 1
+actionscript-3 c++ encryption flash ssl 1
+c++ certificate error-handling x509 1
+acrobat c++ certificate file x509 1
+c++ ffmpeg h.264 rtp 1
+c++ java openssl ssl 1
+c++ cryptoapi signtool winapi windows 1
+c++ digital-signature visual-studio winapi 1
+c++ qnetworkaccessmanager qt ssl ssl-certificate 1
+c c++ certificate openssl x509 1
+c++ openssl sed ssl 1
+apache c++ qt ubuntu 1
+c++ client-certificates openssl private-key 1
+c++ connection qt qt4 qtnetwork 1
+c++ digital-signature 1
+authentication c++ https ssl wininet 1
+authenticode c++ code-signing digital-signature winapi 1
+c++ openssl qt ssl 1
+boost boost-asio c++ openssl windows 1
+c++ gnupg qt signed 1
+c++ qt qt5.6 ssl 1
+c c++ java objective-c ssl 1
+c# c++ digital-certificate import installation 1
+c# c++ digital-certificate digital-signature import 1
+c++ cryptoapi schannel ssl windows 1
+c++ certificate executable validation windows 1
+c c++ ssl winapi winhttp 1
+c++ cryptoapi windows 1
+c++ oauth-2.0 1
+c++ https qnetworkaccessmanager qt ssl 1
+c++ openssl ssl ubuntu 1
+boost boost-asio c++ encryption openssl 1
+c++ https qnetworkrequest qt ssl 1
+c++11 https poco-libraries x509certificate 1
+c++ openssl ssl-certificate validation 1
+c++ curl fiddler openssl ssl 1
+c++ qt qtwebsockets ssl websocket 1
+c c++ winapi 1
+c c++ openssl ssl 1
+c++ code-signing debugging gdb macos 1
+boost boost-asio c++ https ssl 1
+c++ digital-signature winapi 1
+c++ openssl signature verification x509certificate 1
+c c++ windows 1
+c++ certificate driver signing windows 1
+c++ pkcs#11 x509certificate 1
+c++ openssl poco-libraries ssl 1
+c++ openssl poco-libraries 1
+boost boost-asio c++ openssl ssl 1
+c++ cryptoapi openssl ssl-certificate windows 1
+c++ c++11 javascript 1
+c++ certificate powershell 1
+asn.1 c++ certificate openssl x509 1
+c++ gsoap openssl 1
+c++ digital-signature winapi windows-7 1
+c++ openssl sockets 1
+apache c++ cgi ssl xml-rpc 1
+c++ cryptoapi rsa 1
+c++ oauth-2.0 qt ssl 1
+c++ pjsip ssl visual-studio visual-studio-2012 1
+c c++ kmdf schannel wdk 1
+c c++ openssl ssl ssl-certificate 1
+c++ dll windows 1
+activex c++ dll internet-explorer 1
+c++ nss qt ssl 1
+c++ ssl 1
+c++ openssl ssl-certificate x509certificate 1
+c c++ certificate openssl ssl 1
+api c++ liblacewing networking ssl 1
+c++ visual-studio winapi 1
+c++ openssl pki x509certificate 1
+c++ code-signing macos 1
+c++ ssl winhttp 1
+c++ certificate cryptoapi winapi x509 1
+c++ code-signing winapi 1
+c++ ocsp openssl ssl 1
+azure-storage c++ libcurl 1
+c++ openssl pki poco-libraries ssl 1
+c++ java keytool openssl ssl 1
+c++ openssl pki ssl x509 1
+c++ openssl pki x509 1
+c c++ certificate crypt public-key-encryption 1
+c++ cryptoapi pkcs#7 1
+c++ certificate certificate-authority openssl ssl 1
+authentication c++ code-signing digital-certificate winapi 1
+c++ cryptoapi pfx x509 1
+c++ libcurl openssl 1
+c++ code-signing driver visual-c++ wdm 1
+c++ qnetworkaccessmanager qt ssl 1
+c++ curl https lets-encrypt ssl 1
+c++ cryptoapi schannel windows x509 1
+c++ nss openssl qpid ssl 1
+c++ openssl ssl-certificate unix 1
+c++ client poco ssl 1
+authenticode c++ signatures 1
+c++ cryptoapi ssl-certificate windows 1
+betfair c++ openssl soap ssl 1
+boost-asio c++ ssl 1
+c++ cryptoapi openssl windows 1
+c++ certificate java serialization windows 1
+boost boost-asio c++ ssl 1
+c++ digital-signature dll visual-studio-2010 1
+boost-asio c++ ssl ssl-certificate 1
+c++ certificate code-signing digital-signature 1
+c++ qt5 qtnetwork qtwebengine ssl 1
+android c++ string vector 1
+c++ ca cryptlib public-key-encryption 1
+c++ encryption stub 1
+c c++ https libressl openssl 1
+c++ https ssl websocket++ 1
+c++ openssl pem x509 x509certificate 1
+c++ code-signing digital-signature ssl-certificate winapi 1
+c++ digital-signature openssl x509certificate 1
+api c++ driver kernel signature 1
+c++ network-programming qt ssl-certificate 1
+boost c++ https openssl ssl-certificate 1
+c++ openssl pfx windows 1
+boost boost-asio c++ ssl ssl-certificate 1
+c c++ ssl 1
+c++ digital-certificate digital-signature 1
+c++ csr ssl 1
+c++ c++11 openssl openssl-engine 1
+c++ certificate private-key ssl 1
+c++ openssl pem pfx windows 1
+asn1 c++ pkcs#11 pkcs#7 1
+c++ linux openssl 1
+boost-asio boost-beast c++ c++11 1
+boost boost-asio c++ mutual-authentication ssl 1
+c++ libcurl winapi 1
+c c++ openssl pkcs#7 x509certificate 1
+c++ ocsp openssl 1
+c c++ libcurl openssl 1
+.net c++ code-signing installation qt 1
+c++ curl libcurl 1
+android c++ iphone libcurl openssl 1
+c++ qt ssl ssl-certificate 1
+c++ openssl rsa 1
+c c++ handshake openssl 1
+c++ certificate ssl-certificate uwp wincrypt 1
+c++ code-signing directx xinput 1
+c++ code-signing-certificate makecert self windows-defender 1
+c++ openssl openssl-engine 1
+c++ xcode openssl libcurl macos-high-sierra 1
+c++ certificate cryptoapi certenroll wincrypt 1
+c++ windows certificate private-key cryptoapi 1
+c++ winapi certificate certificate-store wincrypt 1
+c++ https openssl ssl-certificate boost-beast 1
+c++ pdf certificate digital-signature certificate-revocation 1
+c++ ssl openssl 1
+c++ certificate certificate-authority 1
+c++ openssl x509 1
+
+
+TOPIC 7: 
+c++ security visual-c++ winapi windows 3
+c++ security windows 3
+c++ security 2
+c c++ security 2
+c c++ cryptography 1
+c++ editcontrol sql-injection subclassing winapi 1
+c++ kernel macos osx-mavericks security 1
+c++ gsoap soap visual-studio-2003 ws-security 1
+c++ checkmarx security 1
+authentication c c++ security winapi 1
+c++ lan radius security windows 1
+c++ security string 1
+c++ cryptography encryption mfc winapi 1
+aes c++ cng cryptography windows 1
+c++ cryptography visual-studio-2010 visual-studio-2015 wincrypt 1
+c++ enterprise esapi owasp security 1
+c c++ linux memory security 1
+activex c++ security visual-c++ visual-studio-2008 1
+c++ c++11 security vector 1
+c++ security vtable 1
+c++ security shared-libraries windows 1
+c++ c++11 memory security templates 1
+c++ local-security-authority winapi windows 1
+c++ memory-leaks security 1
+c++ local-security-authority winapi windows-authentication winlogon 1
+c++ msdn proxy qt windows-security 1
+c++ scripting security stack-overflow 1
+c++ ms-security-essentials security visual-studio-2010 1
+c++ cng cryptoapi cryptography windows-10 1
+c++ dll security 1
+authentication c++ security visual-c++ windows-7 1
+c c++ code-injection security windows 1
+c++ cryptography encode mfc visual-c++ 1
+c++ cryptoapi cryptography winapi windows 1
+c++ database otl soci sql-injection 1
+c++ java race-condition security short-circuiting 1
+c++ mfc security winapi windows-10 1
+browser c++ security visual-studio windows 1
+c++ c++-cli security static-analysis winapi 1
+c++ security uipi winapi windows-xp 1
+c++ security winapi 1
+c++ exception security 1
+c++ memory reverse-engineering security windows 1
+c++ driver kernel security winapi 1
+c++ security teamviewer winapi 1
+c# c++ cryptography 1
+c++ local-security-authority unicode winapi wstring 1
+aes c++ cryptography namespaces visual-studio-2010 1
+c++ com permissions security windows 1
+advanced-installer c++ qt security windows 1
+c c++ malware pointers security 1
+c++ security winapi windows 1
+c++ flash security 1
+c++ mysql sql sql-injection 1
+c++ email mapi outlook security 1
+c++ qt qt5 qtplugin security 1
+c++ fork sandbox security 1
+c++ crypto++ cryptography 1
+c++ c++11 security windows 1
+c++ mfc security windows 1
+browser-plugin c++ digital-signature plugins security 1
+buffer-overflow c++ dangling-pointer gcc security 1
+c++ dll windows windows-security 1
+c++ dll limit security windows 1
+c++ cryptoapi cryptography 1
+c++ memory ram-scraping security 1
+c++ callstack security unsafe 1
+c# c++ secure-coding security 1
+c++ cng cryptoapi cryptography windows-7 1
+c c++ cryptography linux ssl 1
+c++ secure-coding security 1
+c# c++ cryptography wincrypt 1
+c c++ memory-management security 1
+c++ cryptoapi cryptography csr winapi 1
+c++ cryptography database 1
+c++ cryptoapi cryptography mscapi windows 1
+c++ openssl security ssl 1
+c++ cryptography hmac hmacsha1 sha1 1
+c++ machine-learning python security tensorflow 1
+c++ isolatedstorage security windows 1
+c++ local-security-authority unmanaged winapi windows 1
+buffer-overflow c++ windows-10 windows-security 1
+c++ dll process security windows 1
+c++ ntlm ntlm-authentication ntlmv2 security 1
+c++ credential-manager windows windows-security 1
+c++ windows security cryptography hardware 1
+c++ security pointers 1
+c++ firefox javascript mfc visual-c++ 1
+c++ ecryptfs linux mount 1
+c++ qt qt5 1
+c c++ detours hook memory 1
+c++ javascript node.js node.js-addon v8 1
+c++ centos libcurl linux openssl 1
+c++ quickfix 1
+c++ hmac openssl profiling thread-safety 1
+c c++ mongodb msbuild windows 1
+c++ credential-providers credentials 1
+boost c++ exe visual-studio windows 1
+c++ credential-providers user-accounts windows-8 windows-8.1 1
+c++ visual-studio windows 1
+c++ ssl thread-safety visual-c++ 1
+c++ dll encryption 1
+.net c# c++ shell-extensions windows 1
+c++ dll dll-injection google-chrome windows 1
+c++ dll winapi 1
+activex c++ com focus 1
+c++ certificate credential-providers kerberos winlogon 1
+c++ reverse-engineering software-protection 1
+authentication c++ user-accounts winapi windows 1
+c# c++ credential-manager passwordvault windows-8 1
+c++ 1
+c++ cng credential-providers kerberos winlogon 1
+c# c++ windows 1
+c++ memory-leaks open-source windows 1
+c c++ ssl windows x509 1
+c++ evp-cipher openssl 1
+c c++ cocos2d-x ios memory-leaks 1
+c++ credential-providers lsa windows-authentication winlogon 1
+c++ gcc leak-sanitizer memory-leaks 1
+address-sanitizer c++ exception memory-leaks 1
+c# c++ digital-certificate digital-signature windows-8 1
+c++ encryption openssl public-key-encryption rsa 1
+c++-standard-library c++11 static visual-studio-2015 windows-xp 1
+c++ client cookies 1
+arrays c++ javascript node.js node.js-addon 1
+api c c++ cryptoapi 1
+c++ memory 1
+c++ cng digital-signature 1
+c++ code-injection memory windows 1
+boost boost-asio c++ multithreading ssl 1
+c++ credential-manager credentials winapi 1
+c++ createprocess process winapi 1
+c++ credential-providers credentials windows 1
+c# c++ delphi winapi 1
+biometrics c++ credential-providers windows winlogon 1
+c++ false-positive virus 1
+antivirus bin c++ 1
+c++ credential-providers windows 1
+c++ code-injection windows-7 windows-vista windows-xp 1
+c c++ memory-leaks sqlcipher sqlite 1
+automation c++ credential-providers windows windows-authentication 1
+c++ macos memory-leaks 1
+browser-addons c++ internet-explorer javascript 1
+c++ com credential-providers winapi winlogon 1
+boost-signals c++ 1
+c++ clang clang++ thread-safety thread-sanitizer 1
+autologin c# c++ rundll32 winapi 1
+android c++ java java-native-interface 1
+c++ dll dll-injection inject 1
+c++ python-3.x shellcode windows 1
+c++ c windows 1
+javascript c++ qt qwebengineview qwebpage 1
+c++ multithreading memory-leaks openssl rsa 1
+c++ windows 1
+c++ multi-factor-authentication windows-credential-provider 1
+
+
+TOPIC 8: 
+c++ openssl ssl 8
+c++ openssl 8
+c++ mysql security 3
+c++ grpc ssl 3
+boost boost-asio c++ openssl ssl 3
+c++ openssl sockets ssl tcp 3
+c++ encryption openssl ssl 3
+authentication c++ encryption sockets 2
+c++ mysql 2
+c++ ldap windows 2
+c++ grpc 2
+boost boost-asio c++ ssl 2
+c++ encryption 2
+c++ 2
+boost c++ openssl ssl ssl-certificate 2
+asp.net c++ security web 1
+c++ cryptography encryption php python 1
+algorithm c c++ client-server security 1
+c++ security ssh 1
+boost-asio c++ cryptography encryption rsa 1
+c++ cryptography encryption security 1
+c++ http https security 1
+c c# c++ security 1
+authentication c++ crypto++ cryptography encryption 1
+c++ security ssl windows 1
+c++ cryptography encryption ssl 1
+c c++ cryptography encryption network-security 1
+boost c++ networking security 1
+c++ cryptography encryption openssl rsa 1
+c# c++ cryptography encryption rsa 1
+c c++ cryptography encryption gnupg 1
+c++ passwords security sql-server-ce 1
+c++ cryptography encryption qt udp 1
+c++ cryptography encryption php security 1
+c++ devise inheritance passwords ruby-on-rails 1
+c++ crypto++ cryptography sockets 1
+c++ json libjson python security 1
+c++ configuration-files security sqlite windows 1
+c++ client-server php security 1
+c++ com dcom security windows 1
+c++ cryptography public-key-encryption windows 1
+c++ gsoap java security web-services 1
+c c++ cryptography gnupg openpgp 1
+c++ cryptography 1
+c++ cryptography ssl systems-programming tcp 1
+boost c++ communication security 1
+c++ integration nmap security 1
+c++ schannel security sspi winsockets 1
+authentication c++ rpc security thrift 1
+c++ database mysql security sql 1
+c++ cryptoapi cryptography ssl visual-c++ 1
+c++ client-server public-key security wcf 1
+authentication c++ client-server security sockets 1
+c# c++ cryptography python 1
+c++ encryption security sqlite windows 1
+c++ denial-of-service security udp winsock2 1
+c++ cryptography opensc openssl pkcs#11 1
+c++ security sockets windows 1
+c++ encryption security session 1
+c# c++ lan passwords wifi 1
+bluetooth-lowenergy bluez c++ encryption security 1
+c++ cryptography iphone openssl rsa 1
+c# c++ com security 1
+c++ cryptoapi cryptography public-key-encryption rsa 1
+aes c++ cryptography encryption 1
+c++ firewall security shell ubuntu 1
+c# c++ cryptography s60-3rd-edition symbian 1
+c c++ compression cryptography 1
+c++ encryption python reverse-engineering security 1
+boost boost-asio c++ transport-security 1
+c++ cryptography tcp 1
+c++ java network-scan network-security wifi 1
+c++ cryptography schannel ssl 1
+c# c++ network-protocols security 1
+c++ client-server cryptography encryption public-key 1
+c++ security ssl sspi winapi 1
+c++ crypto++ cryptography 1
+c c++ security udp 1
+c c++ security sockets 1
+c++ encryption security 1
+c++ security shared-libraries static-libraries 1
+c c++ cryptography network-programming 1
+c++ php security soap 1
+boost-asio c++ network-programming network-security 1
+application-security authentication c++ ssh ssl 1
+c++ cryptography security shared-secret 1
+c++ security sockets 1
+c++ encryption file passwords 1
+amazon-ec2 c++ gcc sandbox security 1
+c# c++ rsa security zeromq 1
+c++ java security ssl 1
+c++ networking security windows 1
+c c++ openssl security ssl 1
+c++ soap web-services ws-security wwsapi 1
+c++ security networking lua game-engine 1
+c++ qt qt-signals qtcpserver ssl 1
+c++ openssl x509 1
+c++ https ssl winapi wininet 1
+c c++ linux windows 1
+c++ network-programming schannel ssl windows 1
+c++ client-server qsslsocket qt ssl 1
+c++ poco sockets ssl tcp 1
+c++ cocoapods ios openssl ssl 1
+amazon-s3 amazon-web-services c++ encryption 1
+c++ ssh 1
+c++ pam securid 1
+c++ encryption qt tcp 1
+c++ encryption qt qt4 1
+c++ encryption public-key qt rsa 1
+authentication c++ cookies curl oauth-2.0 1
+authentication c++ proxy sockets winsock 1
+c c++ libcurl 1
+c++ openssl ssl tls1.2 1
+boost boost-asio c++ ssl tls1.2 1
+c++ cmake git ninja 1
+c++ openssl php ssl tls1.2 1
+c++ crypto++ rsa 1
+authentication c++ http python rest 1
+c++ dynamic encryption keyczar 1
+c++ libssh ssh visual-studio-2015 1
+c++ network-programming openssl sockets tcp 1
+c c++ encryption openssl 1
+c++ openssl server 1
+c++ qitemdelegate qstyleditemdelegate qt qtableview 1
+c++ libmosquitto mqtt ssl 1
+c++ qt ssl websocket 1
+aes c++ encryption tcp 1
+c# c++ proxy reverse-proxy sniffer 1
+c c++ encryption openssl ssl 1
+c++ openssl tls-psk 1
+c++ openssl ssl zeromq 1
+aes c++ encryption openssl 1
+c++ checksum crc crc16 1
+c++ qt ssh 1
+boost-asio c++ encryption ssl 1
+c++ encryption itext pdf-generation 1
+c++ openssl smtp ssl starttls 1
+c c++ libssh ssh 1
+c++ gnupg pgp signature verification 1
+c++ encryption tcp 1
+c++ encryption gnupg 1
+c++ certificate wix 1
+c++ sql sql-server 1
+c++ linux ssh 1
+c++ ftps qt4 sftp ssl 1
+c++ encryption liblacewing tcp 1
+c++ encryption php qt sockets 1
+c c++ libssh openssh ssh 1
+c++ packet-sniffers windows-firewall 1
+binary c c++ zip 1
+c++ linux shell terminal 1
+c++ encryption qt sqlcipher sqlite 1
+c++ ssl windows x509certificate 1
+c c++ memory-leaks ssl 1
+c c++ openssl 1
+c c++ curl ntlm proxy 1
+c++ crypto++ 1
+active-directory c++ 1
+c++ http https proxy winhttp 1
+c++ casablanca ssl winapi 1
+c++ encryption gnupg gpgme 1
+c++ networking openssl ssl 1
+c c++ openssl sockets ssl-certificate 1
+c c++ ldap linux openldap 1
+c c++ libcurl private-key ssh 1
+c++ encryption networking 1
+c++ encryption linux php ssl 1
+authentication c++ certificate ssl windows 1
+c++ connect webpage wininet 1
+c++ certificate openssl qnetworkaccessmanager qt4.7 1
+aes c++ encryption initialization-vector packet 1
+c c++ kerberos openldap sasl 1
+boost-asio c++ https 1
+c++ ssl sspi 1
+c++ https ssl winapi winhttp 1
+c++ openssl private-key ssl-certificate tls1.2 1
+c++ openssl tls1.2 1
+c++ gnupg openpgp openssl sockets 1
+c++ file-transfer openssl ssl 1
+arduino arduino-esp8266 c++ esp8266 ssl 1
+c c++ openssl optimization ssl 1
+c++ sftp 1
+c c++ client-certificates httpserver ssl 1
+c++ credentials libgit2 1
+c++ javascript node.js rsa ssh 1
+c++ pageant qt sftp windows 1
+amazon-web-services aws-sdk c++ 1
+c++ encryption private-key 1
+c++ client-server ssl thrift 1
+c++ checksum data-integrity thrift 1
+c++ mysql sockets ssh 1
+c++ go grpc ssl 1
+c++ database database-connection libpqxx postgresql 1
+c++ email smtp sockets 1
+c# c++ pipe winapi windows 1
+c++ nonblocking openssl sockets ssl-certificate 1
+c c++ https libpcap ssl 1
+c++ file-descriptor openssl sockets ssl 1
+c++ encryption msdn 1
+c++ casablanca rest ssl windows 1
+c++ grpc java ssl 1
+c++ ssl winsock 1
+c++ epoll memory-leaks openssl ssl 1
+amazon-web-services c++ iot openssl 1
+c++ https openssl qt 1
+c++ interrupt openssl qt 1
+c# c++ code-injection packet 1
+c c++ java 1
+c++ node.js sockets ssl tcp 1
+c++ python ssl ssl-certificate voip 1
+c c++ openssl schannel 1
+c++ qsslsocket qt sockets ssl 1
+c++ mutual-authentication openssl ssl 1
+boost c++ tls1.2 1
+c++ database https sql ssl 1
+c++ gnupg gpgme openssl rpm 1
+botan c++ network-programming ssl 1
+c++ linux ncurses qprocess qt 1
+c++ ftp ftps openssl ssl 1
+c++ http-authentication proxy winhttp 1
+c++ sockets windows-socket-api 1
+c++ email smtp ssl 1
+c++ ssh terminal unix 1
+c++ certificate libressl openssl sockets 1
+c++ linux openssl posix sockets 1
+c++ openssl ssl thrift 1
+c++ openssl rsa tcp winsock 1
+c++ exchangewebservices gsoap openssl wininet 1
+boost c++ ssl 1
+c++ openssl server ssl websocket 1
+c++ schannel ssl winapi winsock2 1
+c++ cryptoapi trusted-timestamp 1
+c c++ windows windows-7 zip 1
+c++ file linux remote-access 1
+authentication c# c++ sftp 1
+c++ gnutls openssl ssl 1
+authentication c++ https mongoose-web-server ssl 1
+c++ mysql openssl ssl 1
+c++ encryption openssl 1
+c++ gnupg gpgme openpgp 1
+c c++ openssl protocols ssl 1
+c++ encryption hash hmac python 1
+c c++ openssl sockets winsock2 1
+c++ liblacewing networking ssl 1
+c++ linux pipe process ssh 1
+c c++ ldap 1
+boost c++ openssl protocols websocket 1
+c++ http openssl ssl winhttp 1
+c++ handshake openssl ubuntu ubuntu-14.04 1
+c++ qsslsocket qt server sockets 1
+c++ encryption php web-services 1
+c# c++ encryption sockets 1
+c++ handshaking openssl ssl 1
+c++ libssh sftp ssh 1
+c++ gmail smtp ssl 1
+c++ openssh 1
+c++ linux openssl x509 x509certificate 1
+.net c++ gsoap ssl wcf 1
+c++ macos secure-transport ssl 1
+c++ curl ssh 1
+aes c++ networking openssl ssl 1
+c++ java macos packet-capture packet-sniffers 1
+c++ encryption openssl php qt 1
+c++ https ssl 1
+c++ https qt web-services 1
+c++ email tls1.2 windows winsock2 1
+c++ curl openssl schannel ssl 1
+c++ openssl poodle-attack ssl ssl-certificate 1
+c++ encryption http post 1
+c++ gpgme pgp 1
+c++ database qt sqlcipher sqlite 1
+c++ man-in-the-middle proxy qt ssl 1
+c++ gnupg 1
+c# c++ wcf web-services wwsapi 1
+c++ client poco-libraries pop3 ssl 1
+arduino-c++ c++ esp32 mqtt ssl 1
+android c++ node.js rest ssl 1
+c c++ openssl select sockets 1
+c c++ libwebsockets linux openssl 1
+c++ encryption grpc ssl 1
+c++ mqtt qt qtmqtt 1
+c++11 network-programming openssl 1
+c c++ openssl sockets 1
+c++ ssl windows 1
+c++ ssl grpc 1
+java c++ ssl encryption 1
+c++ apache-kafka librdkafka 1
+c++ linux sockets encryption 1
+c++ ssl openssl tls1.2 1
+c++ ssl boost-asio 1
+
+
+TOPIC 9: 
+c++ security winapi 6
+c++ security windows 5
+c++ security winapi windows 5
+c++ winapi 3
+c++ winapi windows 3
+c++ impersonation security winapi windows 2
+c++ security winapi windows-10 2
+c++ winapi windows-security 2
+c++ c++11 multithreading 2
+c++ multithreading thread-safety 2
+c++ pointers security 1
+c++ registry security-identifier winapi windows 1
+c++ file-security ntfs winapi 1
+c++ coverity security 1
+c++ security uac winapi windows 1
+c++ elevated-privileges security winapi 1
+active-directory authentication c++ security windows 1
+c++ named-pipes security service winapi 1
+c++ com scheduled-tasks security 1
+c++ firewall non-admin security windows 1
+c# c++ code-duplication security usb 1
+c++ cryptography encryption introduction 1
+c++ internet-explorer security windows 1
+c++ elevated-privileges openprocess security winapi 1
+boost c++ pci-dss security 1
+c++ class cryptography encryption function 1
+c++ cryptography windows 1
+backup c++ ntfs security windows 1
+c++ cng security winapi 1
+c++ cryptoapi cryptography winapi windows 1
+c++ messages security winapi windows 1
+c# c++ security-roles 1
+c++ filesystems security winapi 1
+authentication c++ security winapi windows 1
+c++ named-pipes security windows 1
+c++ c++11 operating-system security 1
+c++ dacl winapi windows windows-security 1
+c++ internet-explorer security webbrowser-control xss 1
+c++ file-security winapi 1
+c# c++ security windows 1
+c++ sandbox security windows 1
+c++ class security 1
+actionscript c++ chromium flash security 1
+c++ dacl security winapi windows-services 1
+active-directory asp.net c++ security winapi 1
+acl c++ process security windows 1
+c++ g++ security 1
+c++ file-access security service 1
+c# c++ clr-hosting security-policy 1
+antivirus c++ certificate code-signing security 1
+c++ restriction runas security winapi 1
+c c++ freebsd security 1
+c++ certificate security 1
+c++ memory-mapped-files security winapi windows 1
+c# c++ cryptography security uwp 1
+c++ methods security token 1
+c# c++ security winapi windows 1
+c++ linux security 1
+assembly c++ code-injection masm security 1
+c++ dacl security winapi 1
+c++ sid token winapi windows-security 1
+c++ createprocess privileges security windows 1
+c++ file-attributes security windows 1
+c# c++ security 1
+autohotkey c++ dll security 1
+access-token c++ process security windows 1
+c# c++ cryptography pinvoke winapi 1
+c++ local-security-authority rdp winapi windows 1
+c++ winapi windows windows-security 1
+c++ security windows windows-services 1
+c++ java jna security windows 1
+c++ code-injection macos security 1
+c++ cryptography java protocol-buffers serialization 1
+access c++ networking security wlan 1
+c c++ setwindowshookex winapi windows-security 1
+c++ pkcs#11 security smartcard 1
+c++ process security 1
+c++ dll security winapi windows 1
+c++ security service windows xpcom 1
+c++ security windows-xp 1
+c++ policy security user-accounts windows 1
+c++ process security winapi windows 1
+c++ impersonation security sspi winapi 1
+c++ networking security windows winhttp 1
+c++11 file-io security windows 1
+access-denied c# c++ security symantec 1
+c++ dll file loadlibrary security 1
+android android-ndk c++ security 1
+android android-camera c++ java security 1
+c++ passwords 1
+c++ filesystemwatcher notifications security winapi 1
+c++ hook process security winapi 1
+c++ dacl permissions security windows 1
+c++ compilation security 1
+c++ performancecounter security winapi 1
+c++ driver security windows 1
+c++ security win32-process winapi 1
+c++ file security winapi windows 1
+c++ cryptography encryption truecrypt ubuntu 1
+c++ linux security user-defined-functions 1
+c++ cryptography oop pointers templates 1
+c++ code-injection security winapi windows 1
+c++ driver process security windows 1
+c++ efs filesystems security windows 1
+c++ chroot fileserver linux security 1
+c++ kernel security winapi windows 1
+c c++ windows windows-security windows-users 1
+c++ codeblocks windows-security 1
+acl c++ security user-accounts windows 1
+c++ filter-driver ntfs security windows 1
+c++ local-security-authority local-security-policy winapi 1
+c++ qt security 1
+c++ passwords visual-studio winapi 1
+c++ openssl cryptography 1
+c++ multithreading encryption cryptography crypto++ 1
+c++ pointers windows-10 buffer-overflow windows-security 1
+c# c++ windows security 1
+c++ github json multithreading 1
+c++ ssl visual-c++ winapi 1
+c++ linux openssl sockets 1
+boost c++ exception-handling visual-studio visual-studio-2013 1
+c# c++ delegates function-pointers 1
+c++ java unix 1
+boost-thread c++ multithreading qt signals-slots 1
+c c++ multithreading pthreads 1
+c++ callstack macos signal-handling stack-trace 1
+boost boost-asio c++ multithreading 1
+c++ collections hashmap stl thread-safety 1
+boost boost-signals2 c++ multithreading 1
+c++ qt qt5 1
+.net c++ ssl 1
+c++ powershell 1
+c++ c++11 enums 1
+boost c++ com 1
+c++ google-api-cpp-client google-authentication google-oauth oauth 1
+c++ qfilesystemwatcher qt qt-signals qtcore 1
+c c++ c++11 function signals 1
+c++ c++11 static-initialization thread-safety 1
+c++ crypt openssl qt rsa 1
+c++ 1
+c++ kernel-module registry winapi 1
+c++ exception-safe memory-leaks shared-ptr 1
+c c++ linux multithreading signals 1
+attributes c++ clang pragma 1
+access-token c++ winapi window 1
+boost c++ c++11 thread-safety 1
+c++ hash linux sockets 1
+c++11 multithreading shared-ptr thread-safety 1
+c++ sandbox 1
+active-directory c++ kerberos linux 1
+c++ crt msvcrt tr24731 windows 1
+c c++ dropbox dropbox-api libcurl 1
+c++11 shared-ptr thread-safety 1
+c++ login windows 1
+c++ qt qtwebengine 1
+c++ dll 1
+c c++ kernel32 winapi windows 1
+authentication c++ mongoose-web-server 1
+c++ multithreading operators 1
+c++ visual-c++ windows 1
+c++ character-encoding http windows winhttp 1
+c++ linux 1
+asynchronous c c++ linux signals 1
+boost c++ ncurses signals 1
+access-rights c++ privileges windows 1
+c++ do-while if-statement 1
+antivirus c++ delphi 1
+c++ encryption winapi 1
+c++ copy-protection windows 1
+c++ firewall rules windows 1
+c c++ linux signals timer 1
+c++ c++11 c++14 multithreading 1
+authorization c++ kerberos 1
+c++ mutex signal-handling thread-safety 1
+c c++ inject linux 1
+c++ impersonation windows 1
+antivirus c c++ trojan 1
+boost boost-asio c++ multithreading valgrind 1
+c++ createprocessasuser sspi windows 1
+c++ delegates events 1
+c++ openssl poco-libraries 1
+.net active-directory c++ kerberos 1
+asio boost c++ sockets ssl 1
+c c++ multithreading serial-port thread-safety 1
+boost-signals c++ noncopyable 1
+c++ visual-c++ visual-studio-2010 1
+c++ class-design 1
+c++ iterator stl thread-safety 1
+authentication c++ oauth-2.0 1
+c++ linux qt 1
+c++ delegates delegation kerberos winhttp 1
+biometrics c# c++ fingerprint sdk 1
+c++ concurrency concurrenthashmap thread-safety 1
+c++ memory-leaks multithreading openssl 1
+c++11 multithreading stl thread-safety 1
+c++ hashmap multithreading thread-safety 1
+assignment-operator c++ exception exception-safety 1
+c++ login operating-system python 1
+c# c++ multithreading 1
+c++ encryption winapi windows 1
+c c++ linux sockets unix 1
+c++ handle named-pipes openssl windows 1
+c++ c++11 linux posix unix 1
+c++ directx encryption 1
+boost c++ signals signals-slots 1
+assignment-operator c++ 1
+c++ linux twitter twitter-oauth 1
+c# c++ emulation login wmi 1
+c++ c++11 multithreading thread-safety 1
+c++ c++11 hashmap multithreading mutex 1
+c++ thread-safety 1
+c++ multithreading openssl thread-safety 1
+c c++ deadlock 1
+c++ windows multithreading winapi visual-c++ 1
+c++ ssl openssl certificate ssl-certificate 1
+c++ boost 1
+c++ winapi acl 1
+c++ linux multithreading pthreads signals 1
+
+
+TOPIC 10: 
+c++ passwords windows 3
+c++ http 2
+authentication c++ http 2
+c++ cryptography openssl security ssl 1
+c++ passwords qlineedit qt 1
+c++ file-security winapi windows 1
+c++ passwords user-accounts windows 1
+c++ cryptography ssl winapi 1
+c++ cryptography smartcard windows 1
+authentication c++ ldap pam security 1
+c++ java multiplayer networking security 1
+authentication c++ passwords winapi windows 1
+api c++ credentials passwords windows-10 1
+c++ ibm-midrange kerberos security sspi 1
+active-directory c++ ntlm php security 1
+c++ login mysql passwords 1
+c++ desktop-application mysql security 1
+c++ https security sha1 ssl 1
+c++ postgresql security 1
+c++ passwords registration while-loop 1
+c++ cgi mysql mysql-connector security 1
+c# c++ hash passwords winapi 1
+c++ qt security 1
+c++ login-attempts passwords 1
+c# c++ complexity-theory passwords validation 1
+c++ security windows 1
+c++ security ssl-certificate 1
+c++ google-oauth2 oauth qt 1
+auto-populate c++ desktop php populate 1
+c++ linux pam 1
+authentication c++ casablanca rest 1
+c++ qt sqlite 1
+c++ gssapi kerberos spnego 1
+c++ java openid 1
+c++ javascript login 1
+.net c c# c++ 1
+c++ database mysql qt qt5 1
+c c++ curl 1
+c++ oci oracle single-sign-on 1
+c++ https php qt ssl 1
+authentication c++ gsoap ssl 1
+c++ unicode winapi 1
+c++ certificate ssl-certificate wxwidgets 1
+c c++ http-authentication winapi windows 1
+c++ client-certificates qnetworkaccessmanager qt smartcard 1
+authentication c++ two-factor-authentication windows 1
+c++ oauth-2.0 qt reddit rest 1
+c++ php 1
+c++ multiplayer openid 1
+authentication auto c++ html javascript 1
+c c++ rfc3161 trusted-timestamp wincrypt 1
+c++ kerberos single-sign-on sspi 1
+c++ msdn user-accounts validation windows 1
+c++ credential-providers credui 1
+authentication basic-authentication c++ http wininet 1
+c++ libgit2 1
+c++ proxy visual-c++ winapi 1
+c++ ldap ssl 1
+c++ winapi windows 1
+c++ encryption php wordpress 1
+authentication c++ credential-providers winapi 1
+authentication c++ sql-server windows 1
+authentication c++ http iis winhttp 1
+c++ digest-authentication http-authentication 1
+c++ login windows 1
+c++ winapi windows wininet 1
+c++ https windows 1
+c++ gssapi kerberos 1
+active-directory authentication c++ windows 1
+c++ sqlite 1
+c++ qt 1
+backend c++ 1
+c++ ip-camera 1
+c c++ onvif soap xml 1
+c++ impersonation login winapi 1
+c++ login oauth openid 1
+active-directory authentication c++ ldap winapi 1
+c++ com credential-providers password-protection windows 1
+c++ iis kerberos windows 1
+c++ google-text-to-speech linux 1
+c++ ldap 1
+authentication c++ kerberos winapi 1
+authentication c++ curl qt spring 1
+c++ ldap windows 1
+authentication c++ sasl sspi windows 1
+c++ http-headers httprequest qt 1
+c++ qml qt qtwebkit webkit 1
+c++ curl ip network-programming packet 1
+c++ qt qweb qwebkit qwebview 1
+c++ dropbox libcurl 1
+c++ firebase firebase-authentication rest 1
+authentication c++ ldap windows 1
+bots c c++ 1
+active-directory c c++ ldap winapi 1
+basic-authentication c++ https qt 1
+authentication c++ digest digest-authentication http-digest 1
+c++ digest-authentication http poco-libraries 1
+c++ ldap linux single-sign-on 1
+authentication c++ ftp winapi windows 1
+c++ html javascript 1
+c++ cookies network-programming qt 1
+c++ ldap linux openldap 1
+c++ connection-string sql-server 1
+c c++ ldap openldap windows 1
+c++ visual-c++ winapi windows winhttp 1
+c++ google-assistant-sdk 1
+c++ encoding qnetworkrequest qt 1
+c++ codeblocks windows 1
+authentication c++ download ntlm urlmon 1
+adam adlds c++ ldap ssl 1
+c++ jquery password-encryption 1
+active-directory authentication c++ java ldap 1
+c++ credential-providers unlock winapi windows 1
+authentication c++ curl django 1
+asp.net c# c++ mysql 1
+active-directory authentication c++ single-sign-on windows 1
+api c++ oauth qt 1
+c++ mysql ssh 1
+c++ http-post libcurl login twitter 1
+c c++ windows wininet 1
+c++ libcurl windows 1
+c++ 1
+c++ qnetworkaccessmanager qnetworkrequest qt qt5 1
+c++ credential-providers smartcard winapi windows 1
+c c++ codeblocks ftp libcurl 1
+boost-beast c++ http 1
+c++ c++11 oauth qt 1
+base64 basic-authentication c++ winhttp 1
+active-directory c++ windows-server-2012-r2 1
+c++ sql-server winapi odbc 1
+c++ ssl https boost-asio pyopenssl 1
+c++ qt-creator 1
+
+
+TOPIC 11: 
+c++ cryptography eulers-number 1
+c++ string arduino char passwords 1
+c++ libtorrent p2p python 1
+c c++ callback multithreading openssl 1
+
+
+TOPIC 12: 
+c++ crypto++ encryption 14
+c++ crypto++ 11
+c++ encryption openssl 11
+aes c++ encryption openssl 10
+aes c++ crypto++ encryption 9
+c++ crypto++ cryptography 8
+c++ crypto++ cryptography encryption 7
+aes c++ openssl 7
+aes c++ crypto++ 7
+aes c++ cryptography encryption openssl 6
+c++ encryption 6
+aes c++ cryptography encryption 5
+aes c c++ encryption openssl 5
+aes c# c++ encryption 5
+aes c++ crypto++ cryptography encryption 4
+c++ cryptography encryption 4
+c++ openssl 4
+aes c++ encryption 4
+blowfish c++ encryption 4
+aes c++ cbc-mode crypto++ 3
+c++ 3
+c++ encryption openssl php 3
+c++ cryptography encryption openssl 2
+c# c++ crypto++ cryptography encryption 2
+c c++ openssl 2
+aes c++ openssl rsa 2
+aes c c++ encryption 2
+aes-gcm c++ encryption initialization-vector 2
+c++ encryption winapi 2
+aes base64 c++ crypto++ encryption 2
+c++ encryption openssl rsa 2
+aes c++ java openssl 2
+c# c++ encryption 2
+c++ cryptoapi encryption winapi 2
+c++ openssl rsa 2
+c++ crypto++ encryption pkcs#7 2
+c++ linux ubuntu 2
+c++ cryptography openssl php 1
+c++ cryptography encryption wincrypt windows 1
+c++ cryptography vector xor 1
+c++ cryptography graphics project 1
+c++ cng cryptoapi cryptography 1
+c++ cryptography encryption node.js rsa 1
+c++ cryptography openssl 1
+c++ crypto++ cryptography diffie-hellman network-security 1
+c++ c++11 crypto++ cryptography 1
+aes algorithm c++ cryptography encryption 1
+c c++ code-access-security sgx 1
+c c++ cryptography encryption openssl 1
+c++ cryptography winapi 1
+aes algorithm c++ crypto++ cryptography 1
+aes-gcm c++ cryptography encryption polarssl 1
+aes aes-ni c++ cryptography encryption 1
+c++ cryptography 1
+aes arduino c++ cryptography encryption 1
+aes c++ cryptography cuda parallel-processing 1
+c++ c++17 crypto++ cryptography 1
+c++ encryption rc4-cipher security wep 1
+c++ cryptography exception heap-corruption 1
+c# c++ cryptography encryption rijndael 1
+c++ cryptoapi cryptography encryption 1
+c++ crypto++ cryptography encryption rsa 1
+c++ cryptography windows 1
+c++ cryptography hashcode sha 1
+c++ c++11 localtime security time 1
+c++ cryptoapi cryptography winapi 1
+c c++ cryptography encryption php 1
+c++ cryptoapi cryptography 1
+c++ crypto++ cryptography release undefined-behavior 1
+c++ cng cryptography encryption-symmetric windows 1
+c++ cryptography encryption padding 1
+aes c++ cryptography mbed node.js 1
+c++ cryptography vigenere 1
+c++ cryptography gnupg java java-native-interface 1
+aes c++ cryptography encryption visual-c++ 1
+botan c++ cryptography encryption 1
+aes c++ encryption security 1
+c++ macos passwords qt 1
+aes c++ crypto++ cryptography 1
+c++ crypto++ cryptography password-protection passwords 1
+c# c++ cryptography rijndael 1
+aes botan c++ cbc-mode cryptography 1
+c++ crypto++ cryptography hmac 1
+c++ crypto++ cryptography encryption mysql 1
+c++ cryptography encryption qt 1
+c c++ cryptography gnupg 1
+c c++ crypto++ cryptography 1
+c++ security 1
+c++ crypto++ cryptography encryption-symmetric rc4-cipher 1
+c++ compilation mingw mod-security2 1
+c++ cryptography encryption encryption-symmetric math 1
+c# c++ cryptography encryption openssl 1
+c# c++ cryptography openssl rijndael 1
+c++ security windows 1
+c c++ cryptography encryption 1
+c++ cbc-mode cryptography xor 1
+c++ crypto++ cryptography rsa 1
+c++ cryptography elgamal encryption 1
+c++ crypto++ cryptography encryption vb.net 1
+c# c++ cryptography encryption 1
+block-cipher c++ crypto++ cryptography 1
+aes byte c++ cryptography encryption 1
+c++ cryptography encryption seal 1
+aes-gcm c++ cng cryptography windows 1
+aes c c++ cryptography encryption 1
+aes c++ cryptography encryption linux 1
+aes aes-ni c++ cryptography 1
+c++11 cryptography encryption modular-arithmetic vigenere 1
+aes c++ cryptography php 1
+c++ cryptography public-key-encryption crypto++ ecies 1
+c++ cryptography crypto++ 1
+java c++ encryption openssl cryptography 1
+c++ encryption cryptography crypto++ 1
+c++ c cryptography aes 1
+c++ c security ssl openssl 1
+c++ visual-studio encryption cryptography xor 1
+c++ encryption cryptography aes crypto++ 1
+c++ encryption file ofstream 1
+c++ encryption linux openssl 1
+c++ encryption javascript networking node.js 1
+aes c++ openssl python python-2.7 1
+aes c++ libgcrypt node.js 1
+c++ password-encryption 1
+c# c++ crypto++ encryption 1
+aes c++ libgcrypt 1
+c++ crypto++ encryption javascript rsa 1
+aes botan c++ 1
+algorithm base64 c++ encryption 1
+actionscript-3 aes c++ crypto++ encryption 1
+c++ crypto++ visual-studio windows 1
+base64 c++ crypto++ 1
+block-cipher c++ crypto++ encryption 1
+aes c++ crypto++ encryption javascript 1
+c++ commoncrypto crypto++ encryption objective-c 1
+c++ crypto++ pkcs#7 1
+aes c++ go openssl 1
+c++ polarssl rsa 1
+c++ java java-native-interface jbytearray 1
+aes c c++ crypto++ eclipse 1
+c++ crypto++ qt 1
+c++ crypto++ libgcrypt 1
+aes algorithm c++ encryption 1
+aes c++17 openssl 1
+autokey c++ vigenere 1
+c++ encryption java password-encryption 1
+aes c++11 evp-cipher openssl 1
+blowfish c++ openssl 1
+c++ cryptoapi encryption 1
+c++ encryption php string 1
+aes base64 c++ encryption 1
+aes aes-gcm c++ c++98 openssl 1
+aes aes-ni c++ encryption 1
+c++ crypto++ decode encryption 1
+aes c++ encryption rijndael visual-studio-2008 1
+c++ encryption openssl ssl 1
+c++ crypto++ encryption rsa 1
+c++ encryption evp-cipher openssl 1
+aes c++ encryption php 1
+c++ encryption initialization-vector wincrypt windows 1
+c++ encryption public-key-encryption winapi 1
+aes c++ java libcrypto openssl 1
+c++ openssl private-key public-key public-key-encryption 1
+aes block-cipher c++ encryption openssl 1
+base64 binary c++ decoding openssl 1
+blowfish c++ encryption java objective-c 1
+aes aes-ni c++ encryption intel 1
+blowfish c++ 1
+c++ encryption multithreading 1
+c++ encryption openssl qt 1
+c c++ openssl pkcs#7 1
+c++ encryption node.js 1
+blowfish c++ objective-c 1
+.net c++ 1
+c++ decode encryption random 1
+aes c++ cbc-mode openssl qt 1
+aes c++ encryption winapi wincrypt 1
+c++ crypto++ encryption public-key-encryption rsa 1
+c++ encryption-symmetric php 1
+c++ ubuntu 1
+c c++ encryption qt sha256 1
+arrays c++ crypto++ large-data 1
+c++ encryption java 1
+c c++ openssl polarssl 1
+aes c++ encryption twofish 1
+c++ steganography turbo-c++ 1
+c++ libtorrent 1
+aes c++ encryption-symmetric openssl 1
+c++ crypto++ large-data 1
+aes c++ encryption winapi 1
+c++ crypto++ mcrypt php 1
+aes c++ crypto++ mcrypt php 1
+aes c++ linux openssl random 1
+aes android c++ encryption openssl 1
+c++ encryption fips openssl rsa 1
+blowfish c++ twofish 1
+aes-gcm c++ crypto++ encryption qt 1
+aes c++ cryptoapi 1
+c++ c++11 evp-cipher openssl 1
+blowfish c++ crypto++ 1
+c++ des 1
+android android-ndk blowfish c++ 1
+aes aes-gcm c++ crypto++ encryption 1
+boost c++ python 1
+aes c++ crypto++ visual-studio 1
+aes c++ crypto++ encryption initialization-vector 1
+aes c++ cfb-mode crypto++ encryption 1
+aes c++ encryption qt 1
+c++ java openssl rsa 1
+c++ chromium cookies google-chrome python 1
+c++ c++builder-5 encryption windows 1
+c++ crypto++ encryption key passphrase 1
+c++ crypto++ decode 1
+aes c++ encryption openssl redhat 1
+c++ encryption function openssl 1
+c++ encryption java openssl visual-c++ 1
+c++ c++-cli visual-studio-2010 1
+c++ encryption php public-key-encryption 1
+c c++ encryption initialization-vector pascal 1
+c++ crypto++ des 1
+aes c++ crypto++ encryption encryption-symmetric 1
+c# c++ encryption unix windows 1
+aes atmel c++ crypto++ encryption 1
+c++ crypto++ encryption hex visual-c++ 1
+android-ndk c c++ encryption 1
+aes c++ crypto++ pycrypto python 1
+c++ encryption linux openssl rijndael 1
+c++ encryption symbian 1
+aes c++ 1
+c c++ c++11 openssl public-key-encryption 1
+aes c++ encryption openssl qt 1
+c++ crypto++ rsa 1
+aes c++ cbc-mode openssl 1
+aes-gcm c++ openssl sockets unsigned-char 1
+aes c++ cryptoapi ecb padding 1
+aes c# c++ rijndael rijndaelmanaged 1
+3des c++ crypto++ php 1
+base64 c++ encryption openssl rsa 1
+c++ crypto++ padding 1
+aes c++ des python rsa 1
+c++ openssl qt 1
+bouncycastle c++ encryption java openssl 1
+aes c++ char openssl 1
+arduino arduino-esp8266 c c++ encryption 1
+aes c++11 cbc-mode encryption openssl 1
+block-cipher c++ crypto++ encryption encryption-symmetric 1
+c++ encryption file rsa 1
+botan c++ ssh 1
+c++ crypto++ public-key-encryption rsa 1
+aes c++ dll encryption openssl 1
+c++ crypto++ encryption istream 1
+7zip c++ crc32 1
+aes c++ cbc-mode crypto++ qt 1
+aes botan c++ encryption qt 1
+c++ crypto++ encryption windows 1
+aes c++ encryption node.js 1
+c++ mcrypt php 1
+aes base64 c++ openssl 1
+c++ encryption php phpseclib wincrypt 1
+c++ crypto++ omnet++ time 1
+c++ encryption node.js openssl 1
+access-violation aes c++ crypto++ 1
+c++ encryption memory 1
+c++ encryption php 1
+aes c c++ encryption-symmetric openssl 1
+c++ encryption python 1
+c++ dpapi 1
+aes c++ cryptoapi linux openssl 1
+aes c++ dart encryption 1
+blowfish c++ cbc-mode openssl php 1
+android-ndk c++ encryption openssl 1
+c c++ rsa symbian 1
+base64 c++ openssl rsa 1
+c++ crypto++ hmacsha1 pbkdf2 rijndael 1
+c++ linux mcrypt ubuntu 1
+c# c++ crypto++ encryption pinvoke 1
+c++ ssh 1
+aes c++ encryption openssl wincrypt 1
+c++ command-line-interface encoding rsa 1
+arrays c++ crypto++ encryption 1
+c++ crypto++ encoding encryption 1
+c++ encryption tripledes visual-c++ 1
+binary c++ codeblocks encryption 1
+blowfish c++ encryption perl 1
+c++ gmail libcurl oauth-2.0 smtp 1
+aes c++ encryption openssl ubuntu 1
+aes c c++ crypto++ 1
+c++ console-application crypto++ 1
+aes c c++ openssl stack-corruption 1
+aes c c++ ecb openssl 1
+aes c++ linux openssl 1
+aes c++ eclipse openssl 1
+c# c++ encryption openssl 1
+aes c++ visual-studio 1
+c c++ encryption openssl php 1
+aes c++ cryptoapi visual-studio 1
+aes c++ php qml qt 1
+aes block-cipher c++ windows 1
+c# c++ 1
+aes aes-gcm c++ encryption 1
+c++ crypto++ encryption openssl protocols 1
+c++ poco-libraries rsa 1
+aes c c++ openssl ssl 1
+c++ rsa poco-libraries 1
+c++ encryption aes crypto++ 1
+c++ kotlin aes rijndael 1
+c++ openssl aes 1
+c++ encryption podofo 1
+c++ encryption crypto++ 1
+php c++ encryption aes 1
+c++ c encryption stream mpeg 1
+c++ encryption wincrypt 1
+java c++ aes encryption-symmetric 1
+c++ encryption 3des tripledes ecb 1
+
+
+TOPIC 13: 
+activex c++ security visual-studio-2005 1
+botan c++ cryptography encryption qt 1
+c++ inheritance qt qt-signals signals-slots 1
+c++ inheritance 1
+
+
+TOPIC 14: 
+c++ 2
+c c++ delphi memory security 1
+c++ java security types 1
+c++ java passwords wifi windows 1
+c++ crypto++ cryptography des 1
+c++ cryptography modulo vigenere 1
+c++ cryptography encryption 1
+c++ rsa string 1
+c c++ go winapi wincrypt 1
+base64 c++ decode openssl 1
+c++ c++11 language-lawyer 1
+c++ symbian 1
+c++ signed unsigned unsigned-integer 1
+c++ cryptoapi pbkdf2 1
+activex c++ javascript 1
+c++ casting 1
+base64 boost c++ decode deflate 1
+c++ kerberos single-sign-on 1
+arrays bluez c++ decoding 1
+c++ encryption qt 1
+c++ encryption java 1
+c++ json postgresql 1
+aes c++ string 1
+base64 c++ cocos2d-x xxtea 1
+c++ cryptoapi rsa 1
+base64 c++ ed25519-donna type-conversion 1
+
+
+TOPIC 15: 
+c c++ security 4
+c++ 4
+buffer-overflow c++ security 2
+c++ security 2
+c c++ 2
+c++ openssl 2
+c++ lua security 1
+assertions bitcoin c++ cryptography qt 1
+buffer c c++ security 1
+c c++ kerberos security 1
+c++ security stack 1
+c++ cryptography windows 1
+c c++ correctness security-by-obscurity validation 1
+buffer-overflow c++ heartbleed-bug linux network-security 1
+backspace c++ passwords 1
+c c++ debugging linux security 1
+c++ cryptography xor 1
+c++ openssl security ssl 1
+c++ image php security web-crawler 1
+c++ security windows 1
+c c++ cng cryptography redefinition 1
+c c++ pointers security void-pointers 1
+c++ google-chrome security uint64 vector 1
+c++ registry security winapi windows 1
+c c++ printf security 1
+c++ passwords turbo-c 1
+c++ malware memcpy security 1
+c++ password-protection passwords stdout 1
+api c++ cin cryptography iostream 1
+c# c++ generics security templates 1
+c c++ memory printf security 1
+c++ linux pam security 1
+base64 c++ java security 1
+c++ compilation java security 1
+c c++ debugging security 1
+c++ dev-c++ passwords 1
+buffer c c++ php security 1
+c++ cryptography encryption string 1
+assembly buffer-overflow c c++ security 1
+buffer-overflow c c++ security 1
+c c++ security strncpy 1
+c++ cryptography ssh 1
+c++ security winapi windows 1
+c++ security winapi 1
+c++ function-pointers security 1
+c c++ exploit security 1
+c++ fortify security sourceanalyser static-code-analysis 1
+c++ compiler-errors passwords visual-studio-2010 visual-studio-2012 1
+c++ cursor dev-c++ getasync passwords 1
+c++ directory security winapi 1
+c++ package security sspi 1
+c++ passwords 1
+bitcoin c++ cryptography hash linux 1
+c++ cin cout passwords string 1
+c++ cryptography header 1
+c++ cryptography encryption image-processing jpeg 1
+c++ cryptography string 1
+buffer c c++ security string 1
+c# c++ cpu intel security 1
+assembly c++ security 1
+c++ reference security 1
+c++ code-access-security security 1
+c++ nginx security 1
+c++ c++11 cryptography move move-semantics 1
+c# c++ cryptography 1
+c++ openssl cryptography 1
+c c++ eclipse mingw 1
+c++ winapi 1
+c++ openssl poco ssl 1
+c# c#-4.0 c++ 1
+c++ encryption exchange-server mapi 1
+active-directory c++ gssapi ldap sspi 1
+c++ encryption wincrypt 1
+bit-fields boolean c++ 1
+access-violation c++ memory-leaks purify valgrind 1
+bitcoin c++ fedora-21 1
+c++ stl 1
+c++ c++11 libgcrypt 1
+c++ qml qproperty qt 1
+c c++ xml-dsig xml-signature xmlsec 1
+c++ visual-studio visual-studio-2008 1
+c++ portable-executable winapi 1
+c++ c++11 move-assignment-operator move-semantics 1
+c++ const list thread-safety 1
+buffer-overflow c++ static-analysis 1
+c++ gssapi kerberos 1
+c++ exploit shellcode 1
+c++ c++11 1
+c++ javascript node.js 1
+buffer c++ integer overflow overrun 1
+c++ decoder decoding ffmpeg 1
+assignment-operator c++ linked-list overloading 1
+boost-serialization c++ compiler-warnings 1
+c++ concurrency hashmap tbb thread-safety 1
+c c++ linux signals 1
+c++ metasploit opcode payload shellcode 1
+c++ curl libcurl visual-c++ visual-studio-2010 1
+c++ forms visual-studio-2012 1
+c++ linux process 1
+c++ crc32 intel 1
+c++ gcc-warning unsigned 1
+c++ hashtable memory-leaks 1
+c# c++ struct 1
+c++ sparsehash 1
+c++ memory-leaks pointers 1
+arduino arduino-ide c++ hmac sha 1
+buffer-overflow c++ gdb python-3.x 1
+c++ python 1
+c++ undefined-behavior 1
+c++ multithreading queue 1
+
+
+TOPIC 16: 
+c++ capslock passwords qt 1
+c c++ cryptography mathematical-lattices pari-gp 1
+c++ cryptography pkcs#11 1
+c c++ cryptography sha x86 1
+bigint botan c++ cryptography gmp 1
+azure c++ c++11 qt security 1
+c++ crypto++ cryptography curve-25519 elliptic-curve 1
+c c++ flawfinder security warnings 1
+c++ cryptography digital-signature hsm mscapi 1
+c++ cng cryptoapi cryptography smartcard 1
+c++ cryptography 1
+c++ cryptography objective-c swift 1
+c++ qt qt4 1
+c++ cryptoapi mscapi pki token 1
+c++ html javascript qt qtwebengine 1
+arduino base64 c c++ python 1
+c++ digital-signature openssl rsa 1
+asm.js c++ emscripten javascript 1
+c++ 1
+c++ poco-libraries ssl 1
+c++ virus 1
+c++ digital-signature openssl rsa shared-libraries 1
+c++ compilation javascript opencv 1
+aes c++ nss pkcs#11 1
+
+

@@ -1,0 +1,15 @@
+Topic ID,Top Words,Category,Sub-Category,Specifics
+TOPIC 0,use need user think make secur implement work support case ,Development,Implementation,
+TOPIC 1,test fix chang updat merg add review descript check thank ,Development,Testing,
+TOPIC 2,secur spring web org filter relea said configur boot apach,Development,Configuration,spring security implementation
+TOPIC 3,encrypt messag app android devic decrypt send mail version conver ,Cryptography,Encryption,encrypt and decrypt implementation (Android app )
+TOPIC 4,file version error build run use plugin tri work problem ,Development,Testing,security error related to file 
+TOPIC 5,certif ssl server client tl connect cert cipher keystor transport ,Network Security,Digital Certificates,certificate authentication
+TOPIC 6,encod valu string decod method return url paramet type use ,Cryptography,Encoding,encode/decode (code security)
+TOPIC 7,thread leak debug jetti eclip ssh memori info log server ,Secure Coding,Thread/Process Management,thread security (code security)
+TOPIC 8,password authent login user cooki usernam session server log request ,Authentication,Login,user authentication
+TOPIC 9,nbsp inject hash googl class cach intern com jersey hashcod ,Other,,
+TOPIC 10,key signatur sha sign privat public rsa check ae fingerprint ,Cryptography,Algorithms,public-key signature system
+TOPIC 11,java org netti com io sun secur jar ssl util ,Development,Libraries,netty package security
+TOPIC 12,token oauth client author authent access request api configur endpoint ,Authentication,Tokens,token oauth authentication
+TOPIC 13,sign email thank github plea cla repli request view contribut ,Development,GitHub/Reports,git configuration

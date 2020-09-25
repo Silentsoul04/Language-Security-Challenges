@@ -1,0 +1,207 @@
+Language,Set,Category,Users,Median Expertise,Mean Expertise,Median Age,Mean Age
+objective-c,security,total,asker,244.52,1145.12,9198.05,14637.04
+objective-c,security,Authentication,asker,210.4,1008.86,5704.51,11484.67
+objective-c,security,Cryptography,asker,333.64,1344.05,8882.38,14536.73
+objective-c,security,Network Security,asker,252.46,1311.28,12567.01,17084.7
+objective-c,security,total,answer,1599.96,6693.38,14537.71,18388.72
+objective-c,security,Authentication,answer,1407.68,4573.93,11231.74,13607.38
+objective-c,security,Cryptography,answer,2556.8,11162.01,13015.19,16713.85
+objective-c,security,Network Security,answer,1335.42,5652.09,15476.22,19289.38
+objective-c,general,total,asker,279.08,1153.94,8197.65,12946.16
+objective-c,general,total,answer,1825.98,6992.28,14085.15,16978.73
+ruby,security,total,asker,257.88,1698.27,11753.52,17382.8
+ruby,security,Authentication,asker,219.22,1541.58,9433.53,14327.11
+ruby,security,Cryptography,asker,333.32,1807.75,15116.47,20132.91
+ruby,security,Data Security,asker,332.96,2391.78,7531.65,13757.31
+ruby,security,Development,asker,341.92,2137.02,10950.81,16406.11
+ruby,security,Network Security,asker,373.66,2132.32,12462.76,17277.06
+ruby,security,total,answer,1464.61,6184.1,15707.79,21662.04
+ruby,security,Authentication,answer,1148.44,4702.3,10980.29,16737.74
+ruby,security,Cryptography,answer,2733.64,8967.21,15073.51,19756.15
+ruby,security,Data Security,answer,3343.23,11156.62,12171.29,18110.68
+ruby,security,Development,answer,2145.68,8443.86,15485.16,20449.04
+ruby,security,Network Security,answer,1852.76,7642.52,17343.34,21082.58
+ruby,general,total,asker,229.28,1627.17,10055.23,15381.08
+ruby,general,total,answer,1697.0,7759.57,18595.02,22846.43
+c,security,total,asker,110.3,1344.61,7876.96,14088.07
+c,security,Cryptography,asker,110.3,1068.81,7753.67,13914.5
+c,security,Data Security,asker,245.96,1987.42,5496.34,13289.92
+c,security,Development,asker,nan,nan,nan,nan
+c,security,Network Security,asker,123.56,1379.43,8766.5,15153.78
+c,security,Secure Coding,asker,112.68,1788.33,7535.27,12511.39
+c,security,total,answer,2226.46,11688.01,18594.29,23540.06
+c,security,Cryptography,answer,2266.22,12505.71,13296.47,19152.07
+c,security,Data Security,answer,3739.32,10639.31,12094.59,16855.22
+c,security,Development,answer,nan,nan,nan,nan
+c,security,Network Security,answer,1610.88,7385.45,11723.58,15221.59
+c,security,Secure Coding,answer,4483.74,18141.43,12154.09,18386.16
+c,general,total,asker,59.86,1188.88,4850.43,10876.09
+c,general,total,answer,3536.0,14724.71,19155.96,23728.78
+bash,security,total,asker,140.77,1219.29,11443.66,17412.23
+bash,security,Authentication,asker,147.48,1181.94,11895.37,17538.07
+bash,security,Cryptography,asker,235.98,1483.21,12703.09,18969.26
+bash,security,Development,asker,175.74,1489.32,13801.04,19623.31
+bash,security,Network Security,asker,116.26,1184.29,9105.14,14794.07
+bash,security,total,answer,1461.81,8336.62,20769.15,26035.48
+bash,security,Authentication,answer,1338.34,8930.44,16362.92,20437.17
+bash,security,Cryptography,answer,2238.74,12199.77,17404.16,21753.0
+bash,security,Development,answer,2108.75,13376.95,17062.56,21510.56
+bash,security,Network Security,answer,1820.08,10649.95,11812.86,16946.88
+bash,general,total,asker,106.06,1071.35,10558.55,16770.37
+bash,general,total,answer,1733.78,8970.06,23031.52,27631.05
+c++,security,total,asker,97.44,1086.36,7988.05,14780.42
+c++,security,Authentication,asker,97.44,1155.67,7564.15,13930.41
+c++,security,Cryptography,asker,76.68,920.61,8070.7,14635.51
+c++,security,Data Security,asker,133.5,1299.71,5392.95,11701.82
+c++,security,Development,asker,123.04,1109.06,6683.92,13695.92
+c++,security,Network Security,asker,197.95,1721.43,8044.9,14277.97
+c++,security,Other,asker,212.34,1677.08,20501.75,23177.83
+c++,security,Secure Coding,asker,138.32,1310.82,8086.22,15168.06
+c++,security,total,answer,1913.65,11266.25,18144.86,24176.1
+c++,security,Authentication,answer,2509.58,12607.73,16303.32,20231.72
+c++,security,Cryptography,answer,1177.92,11094.46,11710.7,18284.31
+c++,security,Data Security,answer,3025.64,16005.05,12418.06,17418.61
+c++,security,Development,answer,1834.83,9850.03,9548.78,17043.32
+c++,security,Network Security,answer,3465.2,10997.73,13375.24,16609.05
+c++,security,Other,answer,7671.67,10563.94,4844.54,12542.26
+c++,security,Secure Coding,answer,2879.73,16755.05,12506.29,18805.3
+c++,general,total,asker,117.28,1525.43,7828.17,14337.84
+c++,general,total,answer,3144.89,12723.02,18869.38,24008.69
+go,security,total,asker,182.28,1361.84,23038.95,27387.7
+go,security,Authentication,asker,190.88,1710.44,19072.19,22456.74
+go,security,Cryptography,asker,160.39,1288.23,21919.12,27359.86
+go,security,Network Security,asker,241.84,1186.44,27986.06,30959.84
+go,security,total,answer,1111.9,9520.59,34324.19,36596.48
+go,security,Authentication,answer,1796.28,13830.03,30352.55,31712.34
+go,security,Cryptography,answer,1258.21,12130.27,28122.36,30442.86
+go,security,Network Security,answer,1447.85,10139.27,32147.42,36137.87
+go,general,total,asker,201.5,1165.64,25562.42,28470.75
+go,general,total,answer,1904.55,8786.11,38759.77,39032.68
+perl,security,total,asker,125.25,1257.52,7517.29,13173.96
+perl,security,Authentication,asker,109.88,679.83,4621.08,11600.1
+perl,security,Cryptography,asker,249.4,1587.55,7470.13,12405.9
+perl,security,Data Security,asker,133.24,1118.2,5398.69,11501.62
+perl,security,Development,asker,133.73,1597.69,6985.12,13335.08
+perl,security,Network Security,asker,113.92,1405.09,7039.05,12375.5
+perl,security,total,answer,2299.91,12390.81,15180.57,20485.94
+perl,security,Authentication,answer,2940.09,21598.03,10135.01,15773.48
+perl,security,Cryptography,answer,4291.86,16542.92,9073.95,12998.55
+perl,security,Data Security,answer,6498.76,22820.02,12103.41,16110.56
+perl,security,Development,answer,3273.4,11726.0,9069.86,13207.42
+perl,security,Network Security,answer,1777.23,10790.75,10542.19,14242.0
+perl,general,total,asker,118.68,1346.09,6883.77,12519.12
+perl,general,total,answer,3228.05,14935.01,18879.05,25235.7
+typescript,security,total,asker,166.54,1039.78,22438.13,27006.91
+typescript,security,Authentication,asker,96.21,513.47,16726.19,21773.32
+typescript,security,Development,asker,320.0,1668.29,29928.89,32448.71
+typescript,security,Network Security,asker,249.44,961.7,25611.37,26974.14
+typescript,security,total,answer,1110.56,6248.3,34351.01,37305.58
+typescript,security,Authentication,answer,718.85,6024.31,31103.56,32512.57
+typescript,security,Development,answer,2166.7,9154.73,33862.8,36254.2
+typescript,security,Network Security,answer,1529.41,10842.54,28074.52,28887.36
+typescript,general,total,asker,177.0,1022.29,26439.68,29053.96
+typescript,general,total,answer,1330.66,8147.59,35703.25,37640.27
+powershell,security,total,asker,65.83,829.46,11926.75,19440.46
+powershell,security,Authentication,asker,52.82,725.24,10509.38,17796.96
+powershell,security,Cryptography,asker,72.0,1111.34,10709.42,17465.28
+powershell,security,Development,asker,114.56,990.03,13456.28,20969.79
+powershell,security,Network Security,asker,163.1,1165.6,19796.69,25614.3
+powershell,security,total,answer,930.73,5551.17,19904.92,25540.2
+powershell,security,Authentication,answer,925.2,5129.55,13742.49,19447.69
+powershell,security,Cryptography,answer,2291.23,11844.57,20817.98,26104.95
+powershell,security,Development,answer,1357.15,4755.24,15592.54,20760.8
+powershell,security,Network Security,answer,1726.36,6562.23,15241.2,19519.79
+powershell,general,total,asker,44.38,794.65,9450.08,17747.51
+powershell,general,total,answer,981.91,6267.02,24311.8,29282.9
+swift,security,total,asker,111.88,593.93,16622.36,22171.92
+swift,security,Authentication,asker,110.08,442.63,13927.44,20088.86
+swift,security,Cryptography,asker,134.68,621.38,19274.34,24098.17
+swift,security,Data Security,asker,127.25,633.25,16355.73,22470.13
+swift,security,Development,asker,110.2,669.59,13770.73,19522.12
+swift,security,Network Security,asker,138.32,680.33,20081.2,23382.93
+swift,security,total,answer,814.38,4148.91,30360.22,33052.0
+swift,security,Authentication,answer,849.34,3996.53,22224.44,26974.51
+swift,security,Cryptography,answer,1427.43,7277.73,32038.38,33080.17
+swift,security,Data Security,answer,948.23,12114.18,30578.69,33253.53
+swift,security,Development,answer,771.22,5692.27,23960.42,26556.22
+swift,security,Network Security,answer,895.79,3841.92,24618.18,25743.04
+swift,general,total,asker,118.5,722.31,13253.45,19102.96
+swift,general,total,answer,858.47,5161.33,24662.48,28163.76
+python,security,total,asker,78.04,938.92,9213.7,15732.0
+python,security,Authentication,asker,65.68,944.12,7870.34,13964.38
+python,security,Cryptography,asker,54.94,863.77,8602.61,15055.86
+python,security,Data Security,asker,96.96,1055.01,7068.42,12877.59
+python,security,Development,asker,106.12,1269.19,9883.4,16389.79
+python,security,Network Security,asker,114.65,1265.21,9704.64,15843.52
+python,security,total,answer,1090.84,6762.93,21145.6,26423.42
+python,security,Authentication,answer,1166.03,7915.14,16959.59,21867.11
+python,security,Cryptography,answer,2050.14,11432.98,14043.31,20571.57
+python,security,Data Security,answer,2528.6,15388.79,15674.35,20584.62
+python,security,Development,answer,1357.49,9171.39,16204.02,20137.17
+python,security,Network Security,answer,1447.65,9642.2,15434.35,21350.47
+python,general,total,asker,56.0,782.35,7818.14,14659.98
+python,general,total,answer,1269.2,7093.2,22496.66,26862.46
+c#,security,total,asker,141.7,1147.61,11208.13,17619.52
+c#,security,Authentication,asker,155.0,1098.25,10310.44,16909.06
+c#,security,Cryptography,asker,150.59,1181.76,8651.01,15100.01
+c#,security,Data Security,asker,284.92,1851.83,7396.29,13437.06
+c#,security,Development,asker,158.98,1333.36,10086.48,16432.06
+c#,security,Network Security,asker,211.8,1493.54,9498.86,15516.94
+c#,security,Other,asker,109.52,91.16,722.19,1056.34
+c#,security,Secure Coding,asker,294.64,1841.92,8964.1,13425.46
+c#,security,total,answer,1268.77,5160.84,17745.18,22761.95
+c#,security,Authentication,answer,1408.27,6375.26,13656.12,18813.33
+c#,security,Cryptography,answer,2381.82,12617.28,10032.83,15962.2
+c#,security,Data Security,answer,2631.18,9736.65,10225.3,15300.24
+c#,security,Development,answer,1349.85,6299.68,13319.57,18291.75
+c#,security,Network Security,answer,1984.88,10444.98,11159.87,16998.54
+c#,security,Other,answer,925.17,925.17,47724.26,47724.26
+c#,security,Secure Coding,answer,4704.2,41089.1,8786.54,12073.76
+c#,general,total,asker,122.34,1082.22,8580.21,15091.92
+c#,general,total,answer,1329.45,5373.44,17838.17,22655.29
+javascript,security,total,asker,124.12,1158.19,9980.23,16035.37
+javascript,security,Authentication,asker,122.4,864.21,11207.69,16851.7
+javascript,security,Cryptography,asker,129.0,1098.64,14149.63,19125.28
+javascript,security,Data Security,asker,33.1,514.95,4995.1,10369.6
+javascript,security,Development,asker,136.4,1317.3,8185.34,14099.16
+javascript,security,Network Security,asker,185.64,1592.19,9867.53,15987.63
+javascript,security,Other,asker,234.44,1431.7,16024.29,20783.22
+javascript,security,total,answer,1206.84,5886.21,18368.26,23385.66
+javascript,security,Authentication,answer,1021.19,6367.57,17257.09,21021.27
+javascript,security,Cryptography,answer,1468.0,10828.55,17077.48,22475.54
+javascript,security,Data Security,answer,1090.64,9306.17,11789.57,17575.05
+javascript,security,Development,answer,1417.96,6994.29,13701.48,18525.15
+javascript,security,Network Security,answer,1926.33,12350.76,13388.16,18691.68
+javascript,security,Other,answer,1649.28,16183.81,12804.09,21516.37
+javascript,general,total,asker,96.75,976.82,8924.13,15116.2
+javascript,general,total,answer,1040.01,5028.57,18757.82,23152.58
+php,security,total,asker,76.88,834.72,5837.13,11427.63
+php,security,Authentication,asker,53.54,710.75,3868.58,9227.97
+php,security,Cryptography,asker,131.71,965.33,7558.9,13902.33
+php,security,Data Security,asker,112.48,1095.13,3634.03,8503.2
+php,security,Development,asker,108.46,1067.85,4911.89,10428.33
+php,security,Network Security,asker,109.76,986.54,5421.86,11079.08
+php,security,total,answer,942.29,4644.93,13727.14,18684.62
+php,security,Authentication,answer,925.77,4919.13,9112.61,13423.86
+php,security,Cryptography,answer,1709.95,10291.71,9333.83,14678.46
+php,security,Data Security,answer,2242.53,12308.37,8663.21,12712.26
+php,security,Development,answer,1165.83,5619.96,9150.42,13759.6
+php,security,Network Security,answer,1556.12,8604.21,9031.15,13406.62
+php,general,total,asker,53.08,631.82,5691.95,11388.35
+php,general,total,answer,782.33,4052.56,13829.37,18425.45
+java,security,total,asker,100.85,904.07,11183.56,16905.81
+java,security,Authentication,asker,127.12,1012.89,8974.94,14618.79
+java,security,Cryptography,asker,99.08,946.66,8070.5,13810.93
+java,security,Data Security,asker,170.46,1656.28,7155.02,12967.44
+java,security,Development,asker,121.44,949.07,10420.49,16070.41
+java,security,Network Security,asker,163.48,1365.62,8972.05,15233.86
+java,security,Secure Coding,asker,262.88,2123.54,9999.73,15651.78
+java,security,total,answer,894.57,4350.03,17993.92,22507.75
+java,security,Authentication,answer,1131.54,5610.5,12315.35,17074.48
+java,security,Cryptography,answer,1579.88,9444.44,11212.36,16501.99
+java,security,Data Security,answer,2112.8,10212.06,10355.53,15480.53
+java,security,Development,answer,851.79,4152.84,13914.61,18620.24
+java,security,Network Security,answer,1648.92,9223.86,10933.32,16117.89
+java,security,Secure Coding,answer,3157.71,20099.29,13316.61,17741.56
+java,general,total,asker,63.76,826.46,6673.66,13114.35
+java,general,total,answer,1025.01,4660.26,16730.01,21413.84
