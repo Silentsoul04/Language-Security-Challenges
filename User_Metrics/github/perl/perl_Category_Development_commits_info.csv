@@ -1,0 +1,11 @@
+repo_name,repo_watcher_count,repo_star_count,repo_commmit_count,user_id,user_login,user_commit_count
+Raku/ecosystem,180,119,2280,1638172,atweiden,0
+SpiderLabs/ModSecurity-nginx,74,695,187,6040606,LeeShan87,0
+SpiderLabs/ModSecurity-nginx,74,695,187,15767386,victorhora,6
+SpiderLabs/owasp-modsecurity-crs,231,2179,1931,618722,dune73,302
+TransDecoder/TransDecoder,14,122,226,7542111,brianjohnhaas,216
+TransDecoder/TransDecoder,14,122,226,30139478,Toral-Manvar,0
+TransDecoder/TransDecoder,14,122,226,28695138,JiaZhong28,0
+mojolicious/mojo,236,2216,12254,30094,kraih,11542
+trinityrnaseq/trinityrnaseq,60,496,1550,7542111,brianjohnhaas,1419
+vti/pocketio,11,100,182,31283,vti,170
